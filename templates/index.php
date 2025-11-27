@@ -9,4 +9,4 @@ Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Appl
 
 ?>
 
-<div id="cristal"></div>
+<div id="xwCristalApp"></div>
