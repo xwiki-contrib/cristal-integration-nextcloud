@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 use OCP\Util;
 
-Util::addScript(OCA\Cristal\AppInfo\Application::APP_ID, 'cristal.umd');
-Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, 'style');
+Util::addScript(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Application::APP_ID . '-main');
+Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Application::APP_ID . '-main');
 
 ?>
 
-<div id="app"></div>
+<div id="cristal"></div>
