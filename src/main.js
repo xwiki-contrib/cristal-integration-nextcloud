@@ -1,6 +1,5 @@
-import Vue from 'vue'
-import App from './App.vue'
-Vue.mixin({ methods: { t, n } })
+import "./main.css"
 
-const View = Vue.extend(App)
-new View().$mount('#cristal')
+const root = document.getElementById('cristal')
+
+root.innerHTML = 'Hello World';
