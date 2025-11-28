@@ -20,7 +20,7 @@
   "dependencies": {
     "@xwiki/cristal-authentication-nextcloud-ui": "0.24.0",
     "@xwiki/cristal-browser-default": "0.24.0",
-    "@xwiki/cristal-dsvuetify": "0.24.0",
+    "@xwiki/cristal-dsshoelace": "0.24.0",
     "@xwiki/cristal-hierarchy-nextcloud": "0.24.0",
     "@xwiki/cristal-lib": "0.24.0",
     "@xwiki/cristal-link-suggest-nextcloud": "0.24.0",

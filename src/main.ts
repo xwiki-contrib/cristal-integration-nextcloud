@@ -1,6 +1,7 @@
+import "./main.scss";
 import {CristalAppLoader, defaultComponentsList} from "@xwiki/cristal-lib";
 import {ComponentInit as BrowserComponentInit} from "@xwiki/cristal-browser-default";
-import { ComponentInit as VueDSComponentInit } from "@xwiki/cristal-dsvuetify";
+import { ComponentInit as ShoelaceDSComponentInit } from "@xwiki/cristal-dsshoelace";
 import { ComponentInit as NextcloudAuthenticationUIComponentInit } from "@xwiki/cristal-authentication-nextcloud-ui";
 import { ComponentInit as NextcloudPageHierarchyComponentInit } from "@xwiki/cristal-hierarchy-nextcloud";
 import { ComponentInit as NextcloudLinkSuggestComponentInit } from "@xwiki/cristal-link-suggest-nextcloud";
@@ -27,7 +28,7 @@ CristalAppLoader.init(
         await defaultComponentsList(container);
         new BrowserComponentInit(container);
         new BrowserSettingsComponentInit(container)
-        new VueDSComponentInit(container);
+        new ShoelaceDSComponentInit(container);
         new NextcloudAuthenticationUIComponentInit(container);
         new NextcloudLinkSuggestComponentInit(container);
         new NextcloudPageHierarchyComponentInit(container);
