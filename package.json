@@ -3,25 +3,38 @@
   "version": "1.0.0",
   "license": "AGPL-3.0-or-later",
   "engines": {
-    "node": "^20.0.0",
-    "npm": "^10.0.0"
+    "node": "^22.0.0",
+    "npm": "^10.5.0"
   },
   "scripts": {
     "build": "vite build",
+    "dev": "vite --mode development build",
+    "watch": "vite --mode development build --watch",
     "lint": "eslint src",
     "stylelint": "stylelint src/**/*.vue src/**/*.scss src/**/*.css"
   },
+  "type": "module",
   "browserslist": [
     "extends @nextcloud/browserslist-config"
   ],
   "dependencies": {
-    "@xwiki/cristal-browser-default": "0.8.0",
-    "@xwiki/cristal-lib": "0.8.0",
-    "vue": "3.4.27"
+    "@xwiki/cristal-authentication-nextcloud-ui": "0.24.0",
+    "@xwiki/cristal-browser-default": "0.24.0",
+    "@xwiki/cristal-dsshoelace": "0.24.0",
+    "@xwiki/cristal-hierarchy-nextcloud": "0.24.0",
+    "@xwiki/cristal-lib": "0.24.0",
+    "@xwiki/cristal-link-suggest-nextcloud": "0.24.0",
+    "@xwiki/cristal-model-reference-nextcloud": "0.24.0",
+    "@xwiki/cristal-model-remote-url-nextcloud": "0.24.0",
+    "@xwiki/cristal-navigation-tree-nextcloud": "0.24.0",
+    "@xwiki/cristal-settings-browser": "0.24.0",
+    "vue": "3.5.25"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "4.6.2",
-    "vite": "4.5.3"
-  },
-  "packageManager": "pnpm@9.1.2"
+    "@nextcloud/browserslist-config": "3.1.2",
+    "@nextcloud/eslint-config": "8.4.2",
+    "@nextcloud/stylelint-config": "3.1.1",
+    "@nextcloud/vite-config": "2.5.2",
+    "vite": "7.2.4"
+  }
 }

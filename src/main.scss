@@ -1,0 +1,20 @@
+// This targets the "content" node used by the Nextcloud wrapper.
+div#content {
+  display: grid;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+// This targets the "content" node used by Cristal.
+article#content {
+  display: grid;
+  height: 100%;
+  padding: 0 var(--cr-spacing-2x-large);
+  overflow: auto;
+  margin: initial;
+  width: initial;
+}
+
+article#content:not(.with-sidebar--full) {
+  position: initial;
+}
