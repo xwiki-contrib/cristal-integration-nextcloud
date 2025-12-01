@@ -1,5 +1,3 @@
-<?php
-
 /**
  * See the LICENSE file distributed with this work for additional
  * information regarding copyright ownership.
@@ -20,12 +18,32 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-declare(strict_types=1);
+import { injectable } from "inversify";
+import { createRouter, createWebHashHistory } from "vue-router";
+import type { RouterFactory } from "@xwiki/cristal-lib";
+import type { Container } from "inversify";
+import type { RouteRecordRaw, Router } from "vue-router";
 
-use OCP\Util;
+/**
+ * Custom router factory for Nextcloud Integration.
+ */
+@injectable()
+class NextcloudRouterFactory implements RouterFactory {
+  initializeRouter(routes: RouteRecordRaw[]): Router {
+    const router = createRouter({
+      history: createWebHashHistory("/apps/cristal"),
+      routes,
+    });
 
-Util::addScript(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Application::APP_ID . '-main');
-Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Application::APP_ID . '-main');
+    return router;
+  }
+}
 
-?>
-<div id="xwCristalApp" class="xw-cristal"></div>
+export class ComponentInit {
+  constructor(container: Container) {
+    container
+      .bind<RouterFactory>("RouterFactory")
+      .to(NextcloudRouterFactory)
+      .inSingletonScope();
+  }
+}

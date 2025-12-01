@@ -8,15 +8,27 @@ importers:
 
   .:
     dependencies:
-      '@xwiki/cristal-authentication-nextcloud-ui':
+      '@xwiki/cristal-alerts-api':
+        specifier: 0.24.0
+        version: 0.24.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-api':
+        specifier: 0.24.0
+        version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-api':
+        specifier: 0.24.0
+        version: 0.24.0(reflect-metadata@0.2.2)
+      '@xwiki/cristal-backend-api':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-browser-default':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-dsshoelace':
+      '@xwiki/cristal-dsvuetify':
         specifier: 0.24.0
-        version: 0.24.0(@floating-ui/utils@0.2.10)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-editors-blocknote':
+        specifier: 0.24.0
+        version: 0.24.0(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.27))(yjs@13.6.27))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-hierarchy-nextcloud':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
@@ -26,21 +38,36 @@ importers:
       '@xwiki/cristal-link-suggest-nextcloud':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-api':
+        specifier: 0.24.0
+        version: 0.24.0
       '@xwiki/cristal-model-reference-nextcloud':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-model-remote-url-nextcloud':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-navigation-tree-nextcloud':
+      '@xwiki/cristal-navigation-tree-api':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-default':
+        specifier: 0.24.0
+        version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-page-default':
+        specifier: 0.24.0
+        version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-settings-browser':
         specifier: 0.24.0
         version: 0.24.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      vue:
-        specifier: 3.5.25
-        version: 3.5.25(typescript@5.8.2)
+      fast-xml-parser:
+        specifier: 5.3.1
+        version: 5.3.1
+      inversify:
+        specifier: 7.10.4
+        version: 7.10.4(reflect-metadata@0.2.2)
+      vue-router:
+        specifier: 4.6.3
+        version: 4.6.3(vue@3.5.25(typescript@5.8.2))
     devDependencies:
       '@nextcloud/browserslist-config':
         specifier: 3.1.2
@@ -57,6 +84,9 @@ importers:
       vite:
         specifier: 7.2.4
         version: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+      vue:
+        specifier: 3.5.25
+        version: 3.5.25(typescript@5.8.2)
 
 packages:
 

@@ -18,23 +18,33 @@
     "extends @nextcloud/browserslist-config"
   ],
   "dependencies": {
-    "@xwiki/cristal-authentication-nextcloud-ui": "0.24.0",
+    "@xwiki/cristal-alerts-api": "0.24.0",
+    "@xwiki/cristal-api": "0.24.0",
+    "@xwiki/cristal-authentication-api": "0.24.0",
+    "@xwiki/cristal-backend-api": "0.24.0",
+    "@xwiki/cristal-page-default": "0.24.0",
+    "fast-xml-parser": "5.3.1",
     "@xwiki/cristal-browser-default": "0.24.0",
-    "@xwiki/cristal-dsshoelace": "0.24.0",
+    "@xwiki/cristal-dsvuetify": "0.24.0",
+    "@xwiki/cristal-editors-blocknote": "0.24.0",
     "@xwiki/cristal-hierarchy-nextcloud": "0.24.0",
     "@xwiki/cristal-lib": "0.24.0",
     "@xwiki/cristal-link-suggest-nextcloud": "0.24.0",
+    "@xwiki/cristal-model-api": "0.24.0",
     "@xwiki/cristal-model-reference-nextcloud": "0.24.0",
     "@xwiki/cristal-model-remote-url-nextcloud": "0.24.0",
-    "@xwiki/cristal-navigation-tree-nextcloud": "0.24.0",
+    "@xwiki/cristal-navigation-tree-api": "0.24.0",
+    "@xwiki/cristal-navigation-tree-default": "0.24.0",
     "@xwiki/cristal-settings-browser": "0.24.0",
-    "vue": "3.5.25"
+    "inversify": "7.10.4",
+    "vue-router": "4.6.3"
   },
   "devDependencies": {
     "@nextcloud/browserslist-config": "3.1.2",
     "@nextcloud/eslint-config": "8.4.2",
     "@nextcloud/stylelint-config": "3.1.1",
     "@nextcloud/vite-config": "2.5.2",
-    "vite": "7.2.4"
+    "vite": "7.2.4",
+    "vue": "3.5.25"
   }
 }

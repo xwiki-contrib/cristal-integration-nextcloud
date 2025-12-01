@@ -1,8 +1,27 @@
+/**
+ * See the LICENSE file distributed with this work for additional
+ * information regarding copyright ownership.
+ *
+ * This is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation; either version 2.1 of
+ * the License, or (at your option) any later version.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this software; if not, write to the Free
+ * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+ * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+ */
+
 // This targets the "content" node used by the Nextcloud wrapper.
 div#content {
   display: grid;
   background-color: #FFFFFF;
-  color: #000000;
 }
 
 // This targets the "content" node used by Cristal.
@@ -11,10 +30,125 @@ article#content {
   height: 100%;
   padding: 0 var(--cr-spacing-2x-large);
   overflow: auto;
-  margin: initial;
-  width: initial;
+  margin: unset;
+  width: unset;
 }
 
 article#content:not(.with-sidebar--full) {
-  position: initial;
+  position: unset;
+}
+
+// We scope the following rules to not impact Nextcloud's header.
+@scope (#xwCristalApp) {
+  :scope {
+    color: var(--cr-base-text-color);
+  }
+
+  a {
+    color: var(--cr-base-link-color);
+  }
+
+  span, div, p {
+    cursor: unset;
+  }
+
+  .content:not(#content-vue) :focus-visible {
+    box-shadow: unset;
+  }
+
+  // Override "inputs.scss" changes.
+  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]),
+  select,
+  div[contenteditable=true],
+  textarea {
+    margin: unset;
+    margin-inline-start: unset;
+    padding: unset;
+    font-family: unset;
+    font-size: unset;
+    background-color: unset;
+    color: unset;
+    border: unset;
+    height: unset;
+    outline: unset;
+    border-radius: unset;
+    text-overflow: unset;
+    cursor: unset;
+  }
+
+  div[contenteditable=true] {
+    width: unset;
+  }
+
+  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):hover,
+  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):focus,
+  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):active,
+  select:not(:disabled):hover,
+  select:not(:disabled):focus,
+  select:not(:disabled):active,
+  div[contenteditable=true]:not(:disabled):hover,
+  div[contenteditable=true]:not(:disabled):focus,
+  div[contenteditable=true]:not(:disabled):active,
+  textarea:not(:disabled):hover,
+  textarea:not(:disabled):focus,
+  textarea:not(:disabled):active {
+    box-shadow: unset;
+  }
+
+  input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=submit]):not([type=button]):not([type=reset]):not([type=color]):not([type=file]):not([type=image]) {
+    height: unset;
+  }
+
+  button:not(.button-vue,[class^=vs__]) {
+    font-weight: unset;
+    border-radius: unset;
+    width: unset;
+    min-height: unset;
+    cursor: unset;
+    background-color: unset;
+    border: unset;
+    color: unset;
+  }
+
+  button:not(.button-vue,[class^=vs__]):disabled {
+    background-color: unset;
+    color: unset;
+    opacity: unset;
+  }
+
+  button:not(.button-vue,[class^=vs__]):not(.app-navigation-entry-button) {
+    margin: unset;
+  }
+
+  select:hover,
+  select:focus,
+  button:not(.button-vue,[class^=vs__]):hover,
+  button:not(.button-vue,[class^=vs__]):focus,
+  .button:hover,
+  .button:focus,
+  input[type=button]:hover,
+  input[type=button]:focus,
+  input[type=submit]:hover,
+  input[type=submit]:focus,
+  input[type=reset]:hover,
+  input[type=reset]:focus {
+    background-color: unset;
+  }
+
+  // Vuetify-specific
+  button.v-btn {
+    border-radius: 4px !important;
+  }
+
+  button.v-btn--size-default {
+    --v-btn-size: .875rem;
+    --v-btn-height: 36px;
+    font-size: var(--v-btn-size);
+    min-width: 64px;
+    padding: 0 16px;
+  }
+
+  button.v-btn--disabled {
+    opacity: .26 !important;
+  }
 }
