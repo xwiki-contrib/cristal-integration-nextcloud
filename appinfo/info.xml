@@ -4,7 +4,7 @@
 	<id>cristal</id>
 	<name>Cristal</name>
 	<summary>Integration of Cristal in Nextcloud</summary>
-	<description>Integrates the [Cristal UI](cristal.xwiki.org) in Nextcloud.</description>
+	<description>Integrates the [Cristal UI](https://cristal.xwiki.org) in Nextcloud.</description>
 	<version>1.0.0</version>
 	<licence>agpl</licence>
 	<author mail="devs@xwiki.org" homepage="https://www.xwiki.org/">XWiki Development Team</author>
