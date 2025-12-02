@@ -34,7 +34,7 @@ jobs:
       - name: Build frontend assets
         run: pnpm run build
 
-      - name: Create info.xml with version
+      - name: Update info.xml with version
         run: |
           VERSION="${{ steps.version.outputs.VERSION }}"
           perl -i -pe "s|<version>.*?</version>|<version>${VERSION}</version>|" appinfo/info.xml
@@ -42,6 +42,7 @@ jobs:
       - name: Create release archive
         run: |
           cd ..
+          mv ${{ github.event.repository.name }} cristal
           tar -czf cristal.tar.gz \
             --exclude=".git*" \
             --exclude="node_modules" \
@@ -53,8 +54,9 @@ jobs:
             --exclude="package*.json" \
             --exclude="webpack*.js" \
             --exclude="src" \
-            ${{ github.event.repository.name }}
-          mv cristal.tar.gz ${{ github.event.repository.name }}/
+            cristal
+          mv cristal.tar.gz cristal/
+          mv cristal ${{ github.event.repository.name }}
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
