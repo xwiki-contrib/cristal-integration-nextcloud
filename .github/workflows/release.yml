@@ -40,7 +40,7 @@ jobs:
       - name: Create release archive
         run: |
           cd ..
-          tar -czf ${{ github.event.repository.name }}.tar.gz \
+          tar -czf cristal.tar.gz \
             --exclude=".git*" \
             --exclude="node_modules" \
             --exclude="tests" \
@@ -52,7 +52,7 @@ jobs:
             --exclude="webpack*.js" \
             --exclude="src" \
             ${{ github.event.repository.name }}
-          mv ${{ github.event.repository.name }}.tar.gz ${{ github.event.repository.name }}/
+          mv cristal.tar.gz ${{ github.event.repository.name }}/
 
       - name: Generate changelog
         id: changelog
@@ -67,25 +67,26 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
-          files: ${{ github.event.repository.name }}.tar.gz
+          files: cristal.tar.gz
           body_path: release_notes.md
           draft: false
           prerelease: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish to Nextcloud App Store
-        if: ${{ !contains(github.ref, 'beta') && !contains(github.ref, 'alpha') }}
+      - name: Sign the release archive
         run: |
-          # Sign the app
-          php occ integrity:sign-app \
-            --privateKey="${{ secrets.NEXTCLOUD_SIGNING_KEY }}" \
-            --certificate="${{ secrets.NEXTCLOUD_CERTIFICATE }}" \
-            --path="$(pwd)"
+          echo "${{ secrets.NEXTCLOUD_SIGNING_KEY }}" > private.key
+          openssl dgst -sha512 -sign private.key cristal.tar.gz | openssl base64 -A > signature.txt
+          rm private.key
+
+      - name: Publish to Nextcloud App Store
+        run: |
+          SIGNATURE=$(cat signature.txt)
+          DOWNLOAD_URL="https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/cristal.tar.gz"
           
-          # Upload to App Store
-          curl -X POST https://apps.nextcloud.com/api/v1/apps/releases \
+          curl -X POST \
             -H "Authorization: Token ${{ secrets.NEXTCLOUD_API_TOKEN }}" \
-            -F "download=@${{ github.event.repository.name }}.tar.gz" \
-            -F "signature=$(cat appinfo/signature.json)" \
-            -F "nightly=true"
+            https://apps.nextcloud.com/api/v1/apps/releases \
+            -H "Content-Type: application/json" \
+            -d "{\"download\":\"${DOWNLOAD_URL}\", \"signature\": \"${SIGNATURE}\", \"nightly\": true}"
