@@ -39,12 +39,10 @@ article#content:not(.with-sidebar--full) {
 }
 
 // We scope the following rules to not impact Nextcloud's header.
-@scope (#xwCristalApp) {
-  :scope {
-    color: var(--cr-base-text-color);
-  }
+.xw-cristal {
+  color: var(--cr-base-text-color);
 
-  a {
+  main a, .v-overlay-container a {
     color: var(--cr-base-link-color);
   }
 
@@ -53,7 +51,7 @@ article#content:not(.with-sidebar--full) {
   }
 
   .content:not(#content-vue) :focus-visible {
-    box-shadow: unset;
+    box-shadow: unset !important;
   }
 
   // Override "inputs.scss" changes.
@@ -61,23 +59,22 @@ article#content:not(.with-sidebar--full) {
   select,
   div[contenteditable=true],
   textarea {
-    margin: unset;
-    margin-inline-start: unset;
-    padding: unset;
-    font-family: unset;
-    font-size: unset;
-    background-color: unset;
-    color: unset;
-    border: unset;
-    height: unset;
-    outline: unset;
-    border-radius: unset;
-    text-overflow: unset;
-    cursor: unset;
+    margin: unset !important;
+    margin-inline-start: unset !important;
+    padding: unset !important;
+    font-family: unset !important;
+    font-size: unset !important;
+    background-color: unset !important;
+    color: unset !important;
+    border: unset !important;
+    height: unset !important;
+    outline: unset !important;
+    border-radius: unset !important;
+    text-overflow: unset !important;
   }
 
   div[contenteditable=true] {
-    width: unset;
+    width: unset !important;
   }
 
   input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):hover,
@@ -92,32 +89,31 @@ article#content:not(.with-sidebar--full) {
   textarea:not(:disabled):hover,
   textarea:not(:disabled):focus,
   textarea:not(:disabled):active {
-    box-shadow: unset;
+    box-shadow: unset !important;
   }
 
   input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=submit]):not([type=button]):not([type=reset]):not([type=color]):not([type=file]):not([type=image]) {
-    height: unset;
+    height: unset !important;
   }
 
   button:not(.button-vue,[class^=vs__]) {
-    font-weight: unset;
-    border-radius: unset;
-    width: unset;
-    min-height: unset;
-    cursor: unset;
-    background-color: unset;
-    border: unset;
-    color: unset;
+    font-weight: unset !important;
+    border-radius: unset !important;
+    width: unset !important;
+    min-height: unset !important;
+    background-color: unset !important;
+    border: unset !important;
+    color: unset !important;
   }
 
   button:not(.button-vue,[class^=vs__]):disabled {
-    background-color: unset;
-    color: unset;
-    opacity: unset;
+    background-color: unset !important;
+    color: unset !important;
+    opacity: unset !important;
   }
 
   button:not(.button-vue,[class^=vs__]):not(.app-navigation-entry-button) {
-    margin: unset;
+    margin: unset !important;
   }
 
   select:hover,
@@ -132,7 +128,7 @@ article#content:not(.with-sidebar--full) {
   input[type=submit]:focus,
   input[type=reset]:hover,
   input[type=reset]:focus {
-    background-color: unset;
+    background-color: unset !important;
   }
 
   // Vuetify-specific
@@ -141,14 +137,14 @@ article#content:not(.with-sidebar--full) {
   }
 
   button.v-btn--size-default {
-    --v-btn-size: .875rem;
-    --v-btn-height: 36px;
-    font-size: var(--v-btn-size);
-    min-width: 64px;
-    padding: 0 16px;
+    --v-btn-size: .875rem !important;
+    --v-btn-height: 36px !important;
+    font-size: var(--v-btn-size) !important;
+    min-width: 64px !important;
+    padding: 0 16px !important;
   }
 
-  button.v-btn--disabled {
+  button.v-btn--disabled:not(.button-vue, [class^="vs__"]) {
     opacity: .26 !important;
   }
 }
