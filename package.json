@@ -23,7 +23,7 @@
     "@xwiki/cristal-authentication-api": "0.24.0",
     "@xwiki/cristal-backend-api": "0.24.0",
     "@xwiki/cristal-page-default": "0.24.0",
-    "fast-xml-parser": "5.3.1",
+    "fast-xml-parser": "5.3.2",
     "@xwiki/cristal-browser-default": "0.24.0",
     "@xwiki/cristal-dsvuetify": "0.24.0",
     "@xwiki/cristal-editors-blocknote": "0.24.0",
