@@ -80,10 +80,10 @@ importers:
         version: 3.1.1(stylelint-config-recommended-scss@15.0.1(postcss@8.5.6)(stylelint@16.26.0(typescript@5.8.2)))(stylelint-config-recommended-vue@1.6.1(postcss-html@1.8.0)(stylelint@16.26.0(typescript@5.8.2)))(stylelint@16.26.0(typescript@5.8.2))
       '@nextcloud/vite-config':
         specifier: 2.5.2
-        version: 2.5.2(browserslist@4.28.0)(picomatch@4.0.3)(rollup@4.53.3)(sass@1.94.2)(typescript@5.8.2)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))
+        version: 2.5.2(browserslist@4.28.0)(picomatch@4.0.3)(rollup@4.53.3)(sass@1.94.2)(typescript@5.8.2)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))
       vite:
-        specifier: 7.2.4
-        version: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+        specifier: 7.2.6
+        version: 7.2.6(sass@1.94.2)(yaml@2.8.1)
       vue:
         specifier: 3.5.25
         version: 3.5.25(typescript@5.8.2)
@@ -1339,6 +1339,7 @@ packages:
 
   '@xwiki/cristal-api@0.24.0':
     resolution: {integrity: sha512-5WOXwTsbtDny7KLcMarvN+Nfzyxoi1xKfCmPYdm0fSs74iTPQ5JGfJGuv+lCZzdpdSz+Kc+JIvgBnk+2BSmZow==}
+    deprecated: replaced by @xwiki/platform-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1347,12 +1348,14 @@ packages:
 
   '@xwiki/cristal-attachments-api@0.24.0':
     resolution: {integrity: sha512-pan+sgutXg+88lHniJMvFU7AZnM8LQ8dfmzveap2OE5iOq8PTQ3lrtufp6j/2u+axnCqrEqi4Oq2/LmJqzdubg==}
+    deprecated: replaced by @xwiki/platform-attachments-api
     peerDependencies:
       reflect-metadata: 0.x
       vue: 3.x
 
   '@xwiki/cristal-attachments-default@0.24.0':
     resolution: {integrity: sha512-b6PxGpYoFBpKxVlPP4eOX9EipZsffqaq1LjmUeaS53nC9ARD7Ywe+PNU2u3PE+KlvDkXIUqvFGTqKhDG4iK98g==}
+    deprecated: replaced by @xwiki/platform-attachments-default
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1368,6 +1371,7 @@ packages:
 
   '@xwiki/cristal-authentication-api@0.24.0':
     resolution: {integrity: sha512-2NOg3F87WxbCj2T0FNAiuT9qcVohCuWLqfu25A5fITXJGv5PPnIfmQcwet7wi6M3tLX6/sPbyd/4RwPvcVkOEg==}
+    deprecated: replaced by @xwiki/platform-authentication-api
     peerDependencies:
       reflect-metadata: 0.x
 
@@ -1414,6 +1418,7 @@ packages:
 
   '@xwiki/cristal-backend-api@0.24.0':
     resolution: {integrity: sha512-pvUNdbGPsHBgb6qrTm9Azm5D3vlxkFjJ7LZ59HdPbaqGf0oMkK80/ZAVe4Gfip62BHeC6sKVEWWZyJa2bcNrfg==}
+    deprecated: replaced by @xwiki/platform-backend-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1454,6 +1459,7 @@ packages:
 
   '@xwiki/cristal-collaboration-api@0.24.0':
     resolution: {integrity: sha512-nDHpSDUNBM0fNbk8QZbQ28I8FrW6V+JPg4qBuHxNWhOAucBRxmOTJHR74suI67m12WSKyiUPkEawGDY/qNjHVA==}
+    deprecated: replaced by @xwiki/platform-collaboration-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1468,6 +1474,7 @@ packages:
 
   '@xwiki/cristal-configuration-api@0.24.0':
     resolution: {integrity: sha512-kfPEup0x+PfvLtgYmPjdMyCiCEMu0arHaTYEknJvbYIutM6tEF69xE6mfWKuCFYDmaI2VhBwEW6A5iLP/G0X0g==}
+    deprecated: replaced by @xwiki/platform-configuration-api
 
   '@xwiki/cristal-configuration-web@0.24.0':
     resolution: {integrity: sha512-opMgFn0ftNq9lRuwuhEl8lKZTTaXAHADsH1muFaaYARcipKnC+PmWBho64CeXUmds9oY5+2EceA4jHorntqgWA==}
@@ -1486,6 +1493,7 @@ packages:
 
   '@xwiki/cristal-document-api@0.24.0':
     resolution: {integrity: sha512-ELTrZJlfSDbohrB37PHzEpWcOSspeZ9B1wOl3Gtt4F1Lgtlvl9PX5yg6pJMlESP+JTrdQ4V7x8JmzZBzw8mA1w==}
+    deprecated: replaced by @xwiki/platform-document-api
     peerDependencies:
       reflect-metadata: 0.x
       vue: 3.x
@@ -1499,6 +1507,7 @@ packages:
 
   '@xwiki/cristal-dsapi@0.24.0':
     resolution: {integrity: sha512-7oeNDOrt+6XJdEIoJ1IkJJvxlMPKQRAtiTbRdHzasncn0sOw27jHkShfcccHKtmywoLADyPW7c7mGqlDwZiU3w==}
+    deprecated: replaced by @xwiki/platform-dsapi
     peerDependencies:
       reflect-metadata: 0.x
       vue: 3.x
@@ -1519,6 +1528,7 @@ packages:
 
   '@xwiki/cristal-editors-blocknote-headless@0.24.0':
     resolution: {integrity: sha512-mTulqH18oqNcSeyNpOYquEH+awILpGZ4BpSRk0+V4TkoONUzPW/Wu4si1YWHRJR/fbqmcrvwcgoZOzmTnaOKfA==}
+    deprecated: replaced by @xwiki/platform-editors-blocknote-headless
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1574,6 +1584,7 @@ packages:
 
   '@xwiki/cristal-fn-utils@0.24.0':
     resolution: {integrity: sha512-EuUSqBLealJgpmEe9YsNhi+SRl/sKsAm8T5ZHo1qFPeAPIuuvmNx8MVU2p3/bM0QCazJNC6TtCEBTpvok5M4iQ==}
+    deprecated: replaced by @xwiki/platform-fn-utils
 
   '@xwiki/cristal-hierarchy-api@0.24.0':
     resolution: {integrity: sha512-U1TdtD7cQqZQ/ayzBKpWVPVIYe+ml3Vgd5Yf6OWnD/ObOGoYcnJ9y4XCji77/k03lNnFnPkuc5RwZALe6SQYaA==}
@@ -1633,6 +1644,7 @@ packages:
 
   '@xwiki/cristal-icons@0.24.0':
     resolution: {integrity: sha512-ilKBA7YdP+i1abr0Iv3Ji0AGd/Xud5/jPYtLY6Ig9C9ftdNP69I872bA1fH8Cmy5sUBsjjGOukx71ILK+3CXPw==}
+    deprecated: replaced by @xwiki/platform-icons
     peerDependencies:
       reflect-metadata: 0.x
       vue: 3.x
@@ -1666,6 +1678,7 @@ packages:
 
   '@xwiki/cristal-link-suggest-api@0.24.0':
     resolution: {integrity: sha512-MWEtgcL4etiK9uMJsOvKBcuSB2TTi5ezoknRn9GbsO39QXqBNnWxybb3B/J9aBVI2ywM0JEfP4+5YIACSIv7DA==}
+    deprecated: replaced by @xwiki/platform-link-suggest-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1684,6 +1697,7 @@ packages:
 
   '@xwiki/cristal-macros-api@0.24.0':
     resolution: {integrity: sha512-lsCMNzFvQfvRCFht6BzAPJjGRVOV4AVw+SmBsWGMmdoA5srU9v8ljKyO7n2qIWxfqzv2PxZlV3VuwPx2lD5MuQ==}
+    deprecated: replaced by @xwiki/platform-macros-api
 
   '@xwiki/cristal-macros-ast-html-converter@0.24.0':
     resolution: {integrity: sha512-s483wzUe9ImoBIwjLd0qi++6O3SDxWKsMkfCAu2FuLYuQGdev/qkV6Vm9ROgtTS3BhdoI+NkeVynAznusnvjkQ==}
@@ -1697,6 +1711,7 @@ packages:
 
   '@xwiki/cristal-macros-service@0.24.0':
     resolution: {integrity: sha512-U03etnpcV7SQ1jy+PDEHm4o4rPkexQP9Yr+Ekw03qmTS15U3hS5csMRVoT/SS5pZuOa0yZNJrejSsBE9XlVXEA==}
+    deprecated: replaced by @xwiki/platform-macros-service
     peerDependencies:
       inversify: 7.x
 
@@ -1707,6 +1722,7 @@ packages:
 
   '@xwiki/cristal-model-api@0.24.0':
     resolution: {integrity: sha512-xIODjfuvwXKLrnQ/GyuoWzhBF0VAKxBT7eB3B8rraxsJ4+v3wfgCqPl0M0LOjCRRqBt+J0r6XuZEfF8M1JtJ9w==}
+    deprecated: replaced by @xwiki/platform-model-api
 
   '@xwiki/cristal-model-click-listener@0.24.0':
     resolution: {integrity: sha512-E5oeIfvNhucxeKuEpsdt/e5QxnCTCa+FLsTtvtjhv973S70rWO0kLnupeqtB7ic7Z1OS1c1yfqT/0qTfYPvNvg==}
@@ -1716,6 +1732,7 @@ packages:
 
   '@xwiki/cristal-model-reference-api@0.24.0':
     resolution: {integrity: sha512-XyS7W/mOhoj4vzw2yvoQi2UuK8vxJAzWHjcBmfC0sIMfcwk6AEi9NFrAOsFyKgjUiAgCmqk2mCmjykWjgL/NWw==}
+    deprecated: replaced by @xwiki/platform-model-reference-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1740,6 +1757,7 @@ packages:
 
   '@xwiki/cristal-model-remote-url-api@0.24.0':
     resolution: {integrity: sha512-QTZTh9cNIfxzLZc05WqZZrifahACa0dJur1PamyxEofRHSXCydbfvBcZQbakGrgjqzP0whYwknfc7vEUV7v6kw==}
+    deprecated: replaced by @xwiki/platform-model-remote-url-api
     peerDependencies:
       inversify: 7.x
       reflect-metadata: 0.x
@@ -1764,6 +1782,7 @@ packages:
 
   '@xwiki/cristal-navigation-tree-api@0.24.0':
     resolution: {integrity: sha512-LcWrPznuUkPS7VnbRfHjjlkPKuvc6vU9qxi2BLN0bG0ckZh9fV4umBXhttoyoO1VfjnQ1tllKVzw6gvAeay34Q==}
+    deprecated: replaced by @xwiki/platform-navigation-tree-api
 
   '@xwiki/cristal-navigation-tree-default@0.24.0':
     resolution: {integrity: sha512-YxCgmmbYLAy1z25j160fKED8JxXQsrscYUvUAzuxBhjc2oZuQSpF4qrMj9ir1+fk1A9LNSfjog0eL9OOwzabhg==}
@@ -1894,6 +1913,7 @@ packages:
 
   '@xwiki/cristal-uniast-api@0.24.0':
     resolution: {integrity: sha512-aXMH4Fd8HwGqTHVGNqnKyCMDsA6DXysHOVwXsytVFs2aCeCJ0TMcvxHW2gDC3PZ8Qbw8mf51ZoazboLg0etavg==}
+    deprecated: replaced by @xwiki/platform-uniast-api
 
   '@xwiki/cristal-uniast-html@0.24.0':
     resolution: {integrity: sha512-CgDwIrmrmBUzkRGfX0gBTOqgC91ZVVHPTIREhr7s9KoDnYKhm5KIAENZPYGExnrcN4xaHYCvOMhI3gulDwWPRQ==}
@@ -1902,6 +1922,7 @@ packages:
 
   '@xwiki/cristal-uniast-markdown@0.24.0':
     resolution: {integrity: sha512-Mg+N/aUSRZAZ5mM/WsoXuoZo1IPjVLHEnGVCBZ5sCHILha4AcMjcTaQGB6oJXX5vJUaHWv0MbQnsMcWaBESbwA==}
+    deprecated: replaced by @xwiki/platform-uniast-markdown
     peerDependencies:
       inversify: 7.x
 
@@ -2853,8 +2874,8 @@ packages:
   hash.js@1.1.7:
     resolution: {integrity: sha512-taOaskGt4z4SOANNseOviYDvjEJinIkRgmp7LbKP2YTTmVxWBl87s/uzK9r+44BclBSp2X7K1hqeNfz9JbBeXA==}
 
-  hashery@1.2.0:
-    resolution: {integrity: sha512-43XJKpwle72Ik5Zpam7MuzRWyNdwwdf6XHlh8wCj2PggvWf+v/Dm5B0dxGZOmddidgeO6Ofu9As/o231Ti/9PA==}
+  hashery@1.3.0:
+    resolution: {integrity: sha512-fWltioiy5zsSAs9ouEnvhsVJeAXRybGCNNv0lvzpzNOSDbULXRy7ivFWwCCv4I5Am6kSo75hmbsCduOoc2/K4w==}
     engines: {node: '>=20'}
 
   hasown@2.0.2:
@@ -3198,15 +3219,12 @@ packages:
   keyv@4.5.4:
     resolution: {integrity: sha512-oxVHkHR/EJf2CNXnWxRLW6mg7JyCCUcG0DtEGmL2ctUo1PNTin1PUil+r/+4r5MpVgC/fn1kjsx7mjSujKqIpw==}
 
-  keyv@5.5.4:
-    resolution: {integrity: sha512-eohl3hKTiVyD1ilYdw9T0OiB4hnjef89e3dMYKz+mVKDzj+5IteTseASUsOB+EU9Tf6VNTCjDePcP6wkDGmLKQ==}
+  keyv@5.5.5:
+    resolution: {integrity: sha512-FA5LmZVF1VziNc0bIdCSA1IoSVnDCqE8HJIZZv2/W8YmoAM50+tnUgJR/gQZwEeIMleuIOnRnHA/UaZRNeV4iQ==}
 
   kind-of@6.0.3:
     resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
     engines: {node: '>=0.10.0'}
-
-  known-css-properties@0.36.0:
-    resolution: {integrity: sha512-A+9jP+IUmuQsNdsLdcg6Yt7voiMF/D4K83ew0OpJtpu+l34ef7LaohWV0Rc6KNvzw6ZDizkqfyB5JznZnzuKQA==}
 
   known-css-properties@0.37.0:
     resolution: {integrity: sha512-JCDrsP4Z1Sb9JwG0aJ8Eo2r7k4Ou5MwmThS/6lcIe1ICyb7UBJKGRIUUdqc2ASdE/42lgz6zFUnzAIhtXnBVrQ==}
@@ -3811,8 +3829,8 @@ packages:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
     engines: {node: '>=6'}
 
-  qified@0.5.2:
-    resolution: {integrity: sha512-7gJ6mxcQb9vUBOtbKm5mDevbe2uRcOEVp1g4gb/Q+oLntB3HY8eBhOYRxFI2mlDFlY1e4DOSCptzxarXRvzxCA==}
+  qified@0.5.3:
+    resolution: {integrity: sha512-kXuQdQTB6oN3KhI6V4acnBSZx8D2I4xzZvn9+wFLLFCoBNQY/sFnCW6c43OL7pOQ2HvGV4lnWIXNmgfp7cTWhQ==}
     engines: {node: '>=20'}
 
   qr-creator@1.0.0:
@@ -4272,11 +4290,11 @@ packages:
     peerDependencies:
       stylelint: ^16.23.0
 
-  stylelint-scss@6.12.1:
-    resolution: {integrity: sha512-UJUfBFIvXfly8WKIgmqfmkGKPilKB4L5j38JfsDd+OCg2GBdU0vGUV08Uw82tsRZzd4TbsUURVVNGeOhJVF7pA==}
+  stylelint-scss@6.13.0:
+    resolution: {integrity: sha512-kZPwFUJkfup2gP1enlrS2h9U5+T5wFoqzJ1n/56AlpwSj28kmFe7ww/QFydvPsg5gLjWchAwWWBLtterynZrOw==}
     engines: {node: '>=18.12.0'}
     peerDependencies:
-      stylelint: ^16.0.2
+      stylelint: ^16.8.2
 
   stylelint-use-logical@2.1.2:
     resolution: {integrity: sha512-4ffvPNk/swH4KS3izExWuzQOuzLmi0gb0uOhvxWJ20vDA5W5xKCjcHHtLoAj1kKvTIX6eGIN5xGtaVin9PD0wg==}
@@ -4543,8 +4561,8 @@ packages:
     peerDependencies:
       vite: ^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0
 
-  vite@7.2.4:
-    resolution: {integrity: sha512-NL8jTlbo0Tn4dUEXEsUg8KeyG/Lkmc4Fnzb8JXN/Ykm9G4HNImjtABMJgkQoVjOBN/j2WAwDTRytdqJbZsah7w==}
+  vite@7.2.6:
+    resolution: {integrity: sha512-tI2l/nFHC5rLh7+5+o7QjKjSR04ivXDF4jcgV0f/bTQ+OJiITy5S6gaynVsEM+7RqzufMnVbIon6Sr5x1SDYaQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -4944,14 +4962,14 @@ snapshots:
   '@cacheable/memory@2.0.6':
     dependencies:
       '@cacheable/utils': 2.3.2
-      '@keyv/bigmap': 1.3.0(keyv@5.5.4)
+      '@keyv/bigmap': 1.3.0(keyv@5.5.5)
       hookified: 1.13.0
-      keyv: 5.5.4
+      keyv: 5.5.5
 
   '@cacheable/utils@2.3.2':
     dependencies:
-      hashery: 1.2.0
-      keyv: 5.5.4
+      hashery: 1.3.0
+      keyv: 5.5.5
 
   '@csstools/css-parser-algorithms@3.0.5(@csstools/css-tokenizer@3.0.4)':
     dependencies:
@@ -5223,11 +5241,11 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@keyv/bigmap@1.3.0(keyv@5.5.4)':
+  '@keyv/bigmap@1.3.0(keyv@5.5.5)':
     dependencies:
-      hashery: 1.2.0
+      hashery: 1.3.0
       hookified: 1.13.0
-      keyv: 5.5.4
+      keyv: 5.5.5
 
   '@keyv/serialize@1.1.1': {}
 
@@ -5361,10 +5379,10 @@ snapshots:
       stylelint-config-recommended-vue: 1.6.1(postcss-html@1.8.0)(stylelint@16.26.0(typescript@5.8.2))
       stylelint-use-logical: 2.1.2(stylelint@16.26.0(typescript@5.8.2))
 
-  '@nextcloud/vite-config@2.5.2(browserslist@4.28.0)(picomatch@4.0.3)(rollup@4.53.3)(sass@1.94.2)(typescript@5.8.2)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))':
+  '@nextcloud/vite-config@2.5.2(browserslist@4.28.0)(picomatch@4.0.3)(rollup@4.53.3)(sass@1.94.2)(typescript@5.8.2)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@rollup/plugin-replace': 6.0.3(rollup@4.53.3)
-      '@vitejs/plugin-vue': 6.0.2(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))
+      '@vitejs/plugin-vue': 6.0.2(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))
       browserslist: 4.28.0
       browserslist-to-esbuild: 2.1.1(browserslist@4.28.0)
       magic-string: 0.30.21
@@ -5374,10 +5392,10 @@ snapshots:
       rollup-plugin-node-externals: 8.1.2(rollup@4.53.3)
       sass: 1.94.2
       spdx-expression-parse: 4.0.0
-      vite: 7.2.4(sass@1.94.2)(yaml@2.8.1)
-      vite-plugin-css-injected-by-js: 3.5.2(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))
-      vite-plugin-dts: 4.5.4(rollup@4.53.3)(typescript@5.8.2)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))
-      vite-plugin-node-polyfills: 0.24.0(rollup@4.53.3)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))
+      vite: 7.2.6(sass@1.94.2)(yaml@2.8.1)
+      vite-plugin-css-injected-by-js: 3.5.2(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))
+      vite-plugin-dts: 4.5.4(rollup@4.53.3)(typescript@5.8.2)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))
+      vite-plugin-node-polyfills: 0.24.0(rollup@4.53.3)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))
     transitivePeerDependencies:
       - '@types/node'
       - picomatch
@@ -5920,10 +5938,10 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.11.1':
     optional: true
 
-  '@vitejs/plugin-vue@6.0.2(vite@7.2.4(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))':
+  '@vitejs/plugin-vue@6.0.2(vite@7.2.6(sass@1.94.2)(yaml@2.8.1))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-beta.50
-      vite: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+      vite: 7.2.6(sass@1.94.2)(yaml@2.8.1)
       vue: 3.5.25(typescript@5.8.2)
 
   '@volar/language-core@2.4.26':
@@ -7601,8 +7619,8 @@ snapshots:
       '@cacheable/memory': 2.0.6
       '@cacheable/utils': 2.3.2
       hookified: 1.13.0
-      keyv: 5.5.4
-      qified: 0.5.2
+      keyv: 5.5.5
+      qified: 0.5.3
 
   call-bind-apply-helpers@1.0.2:
     dependencies:
@@ -8466,7 +8484,7 @@ snapshots:
       inherits: 2.0.4
       minimalistic-assert: 1.0.1
 
-  hashery@1.2.0:
+  hashery@1.3.0:
     dependencies:
       hookified: 1.13.0
 
@@ -8862,13 +8880,11 @@ snapshots:
     dependencies:
       json-buffer: 3.0.1
 
-  keyv@5.5.4:
+  keyv@5.5.5:
     dependencies:
       '@keyv/serialize': 1.1.1
 
   kind-of@6.0.3: {}
-
-  known-css-properties@0.36.0: {}
 
   known-css-properties@0.37.0: {}
 
@@ -9695,7 +9711,7 @@ snapshots:
 
   punycode@2.3.1: {}
 
-  qified@0.5.2:
+  qified@0.5.3:
     dependencies:
       hookified: 1.13.0
 
@@ -10226,7 +10242,7 @@ snapshots:
       postcss-scss: 4.0.9(postcss@8.5.6)
       stylelint: 16.26.0(typescript@5.8.2)
       stylelint-config-recommended: 16.0.0(stylelint@16.26.0(typescript@5.8.2))
-      stylelint-scss: 6.12.1(stylelint@16.26.0(typescript@5.8.2))
+      stylelint-scss: 6.13.0(stylelint@16.26.0(typescript@5.8.2))
     optionalDependencies:
       postcss: 8.5.6
 
@@ -10246,11 +10262,11 @@ snapshots:
     dependencies:
       stylelint: 16.26.0(typescript@5.8.2)
 
-  stylelint-scss@6.12.1(stylelint@16.26.0(typescript@5.8.2)):
+  stylelint-scss@6.13.0(stylelint@16.26.0(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
-      known-css-properties: 0.36.0
+      known-css-properties: 0.37.0
       mdn-data: 2.25.0
       postcss-media-query-parser: 0.2.3
       postcss-resolve-nested-selector: 0.1.6
@@ -10583,11 +10599,11 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.3
 
-  vite-plugin-css-injected-by-js@3.5.2(vite@7.2.4(sass@1.94.2)(yaml@2.8.1)):
+  vite-plugin-css-injected-by-js@3.5.2(vite@7.2.6(sass@1.94.2)(yaml@2.8.1)):
     dependencies:
-      vite: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+      vite: 7.2.6(sass@1.94.2)(yaml@2.8.1)
 
-  vite-plugin-dts@4.5.4(rollup@4.53.3)(typescript@5.8.2)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1)):
+  vite-plugin-dts@4.5.4(rollup@4.53.3)(typescript@5.8.2)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1)):
     dependencies:
       '@microsoft/api-extractor': 7.55.1
       '@rollup/pluginutils': 5.3.0(rollup@4.53.3)
@@ -10600,21 +10616,21 @@ snapshots:
       magic-string: 0.30.21
       typescript: 5.8.2
     optionalDependencies:
-      vite: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+      vite: 7.2.6(sass@1.94.2)(yaml@2.8.1)
     transitivePeerDependencies:
       - '@types/node'
       - rollup
       - supports-color
 
-  vite-plugin-node-polyfills@0.24.0(rollup@4.53.3)(vite@7.2.4(sass@1.94.2)(yaml@2.8.1)):
+  vite-plugin-node-polyfills@0.24.0(rollup@4.53.3)(vite@7.2.6(sass@1.94.2)(yaml@2.8.1)):
     dependencies:
       '@rollup/plugin-inject': 5.0.5(rollup@4.53.3)
       node-stdlib-browser: 1.3.1
-      vite: 7.2.4(sass@1.94.2)(yaml@2.8.1)
+      vite: 7.2.6(sass@1.94.2)(yaml@2.8.1)
     transitivePeerDependencies:
       - rollup
 
-  vite@7.2.4(sass@1.94.2)(yaml@2.8.1):
+  vite@7.2.6(sass@1.94.2)(yaml@2.8.1):
     dependencies:
       esbuild: 0.25.12
       fdir: 6.5.0(picomatch@4.0.3)
