@@ -91,6 +91,10 @@ class NextcloudAuthenticationManager implements AuthenticationManager {
     // The user needs to be logged-in to open the Cristal app.
     return true;
   }
+
+  getUserId(): string | undefined {
+    return document.getElementsByTagName("head")[0]?.getAttribute("data-user");
+  }
 }
 
 export class ComponentInit {
