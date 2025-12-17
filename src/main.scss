@@ -21,6 +21,8 @@
 // This targets the "content" node used by the Nextcloud wrapper.
 div#content {
   display: grid;
+  // To replace with `var(--color-main-background)` once dark mode support is
+  // implemented.
   background-color: #FFFFFF;
 }
 
@@ -36,115 +38,4 @@ article#content {
 
 article#content:not(.with-sidebar--full) {
   position: unset;
-}
-
-// We scope the following rules to not impact Nextcloud's header.
-.xw-cristal {
-  color: var(--cr-base-text-color);
-
-  main a, .v-overlay-container a {
-    color: var(--cr-base-link-color);
-  }
-
-  span, div, p {
-    cursor: unset;
-  }
-
-  .content:not(#content-vue) :focus-visible {
-    box-shadow: unset !important;
-  }
-
-  // Override "inputs.scss" changes.
-  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]),
-  select,
-  div[contenteditable=true],
-  textarea {
-    margin: unset !important;
-    margin-inline-start: unset !important;
-    padding: unset !important;
-    font-family: unset !important;
-    font-size: unset !important;
-    background-color: unset !important;
-    color: unset !important;
-    border: unset !important;
-    height: unset !important;
-    outline: unset !important;
-    border-radius: unset !important;
-    text-overflow: unset !important;
-  }
-
-  div[contenteditable=true] {
-    width: unset !important;
-  }
-
-  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):hover,
-  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):focus,
-  input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]):not(:disabled):active,
-  select:not(:disabled):hover,
-  select:not(:disabled):focus,
-  select:not(:disabled):active,
-  div[contenteditable=true]:not(:disabled):hover,
-  div[contenteditable=true]:not(:disabled):focus,
-  div[contenteditable=true]:not(:disabled):active,
-  textarea:not(:disabled):hover,
-  textarea:not(:disabled):focus,
-  textarea:not(:disabled):active {
-    box-shadow: unset !important;
-  }
-
-  input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=submit]):not([type=button]):not([type=reset]):not([type=color]):not([type=file]):not([type=image]) {
-    height: unset !important;
-  }
-
-  button:not(.button-vue,[class^=vs__]) {
-    font-weight: unset !important;
-    border-radius: unset !important;
-    width: unset !important;
-    min-height: unset !important;
-    background-color: unset !important;
-    border: unset !important;
-    color: unset !important;
-  }
-
-  button:not(.button-vue,[class^=vs__]):disabled {
-    background-color: unset !important;
-    color: unset !important;
-    opacity: unset !important;
-  }
-
-  button:not(.button-vue,[class^=vs__]):not(.app-navigation-entry-button) {
-    margin: unset !important;
-  }
-
-  select:hover,
-  select:focus,
-  button:not(.button-vue,[class^=vs__]):hover,
-  button:not(.button-vue,[class^=vs__]):focus,
-  .button:hover,
-  .button:focus,
-  input[type=button]:hover,
-  input[type=button]:focus,
-  input[type=submit]:hover,
-  input[type=submit]:focus,
-  input[type=reset]:hover,
-  input[type=reset]:focus {
-    background-color: unset !important;
-  }
-
-  // Vuetify-specific
-  button.v-btn {
-    border-radius: 4px !important;
-  }
-
-  button.v-btn--size-default {
-    --v-btn-size: .875rem !important;
-    --v-btn-height: 36px !important;
-    font-size: var(--v-btn-size) !important;
-    min-width: 64px !important;
-    padding: 0 16px !important;
-  }
-
-  button.v-btn--disabled:not(.button-vue, [class^="vs__"]) {
-    opacity: .26 !important;
-  }
 }

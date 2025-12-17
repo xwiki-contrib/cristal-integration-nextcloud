@@ -19,6 +19,7 @@
  */
 
 import "./main.scss";
+import "./vuetify.scss";
 import { ComponentInit as NextcloudAuthenticationComponentInit } from "./components/NextcloudAuthenticationManager";
 import { ComponentInit as NextcloudRouterComponentInit } from "./components/NextcloudRouterFactory";
 import { ComponentInit as NextcloudNavigationTreeComponentInit } from "./components/NextcloudNavigationTreeSource";
