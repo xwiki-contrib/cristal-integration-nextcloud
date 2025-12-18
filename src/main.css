@@ -18,15 +18,15 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-// This targets the "content" node used by the Nextcloud wrapper.
+/* This targets the "content" node used by the Nextcloud wrapper. */
 div#content {
   display: grid;
-  // To replace with `var(--color-main-background)` once dark mode support is
-  // implemented.
+  /* TODO: replace with `var(--color-main-background)` once dark mode support
+     is implemented (see CRISTALNC-13). */
   background-color: #FFFFFF;
 }
 
-// This targets the "content" node used by Cristal.
+/* This targets the "content" node used by Cristal. */
 article#content {
   display: grid;
   height: 100%;

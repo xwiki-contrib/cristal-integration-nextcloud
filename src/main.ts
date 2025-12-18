@@ -18,8 +18,8 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-import "./main.scss";
-import "./vuetify.scss";
+import "./main.css";
+import "./vuetify.css";
 import { ComponentInit as NextcloudAuthenticationComponentInit } from "./components/NextcloudAuthenticationManager";
 import { ComponentInit as NextcloudRouterComponentInit } from "./components/NextcloudRouterFactory";
 import { ComponentInit as NextcloudNavigationTreeComponentInit } from "./components/NextcloudNavigationTreeSource";

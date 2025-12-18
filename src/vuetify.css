@@ -18,9 +18,9 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-// We scope the following rules to not impact Nextcloud's header.
-// All of these rules should no longer be required once we have a Nextcloud ds
-// that supports dark mode.
+/* We scope the following rules to not impact Nextcloud's header.
+   All of these rules should no longer be required once we have a Nextcloud ds
+   that supports dark mode. */
 .xw-cristal {
   color: var(--cr-base-text-color);
 
@@ -36,7 +36,7 @@
     box-shadow: unset !important;
   }
 
-  // Override "inputs.scss" changes.
+  /* Override "inputs.scss" changes. */
   input:not([type=range],.input-field__input,[type=submit],[type=button],[type=reset],.multiselect__input,.select2-input,.action-input__input,[class^=vs__]),
   select,
   div[contenteditable=true],
@@ -113,7 +113,7 @@
     background-color: unset !important;
   }
 
-  // Vuetify-specific
+  /* Vuetify-specific */
   button.v-btn {
     border-radius: 4px !important;
   }
