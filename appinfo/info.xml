@@ -16,7 +16,6 @@
 	<category>organization</category>
 	<category>social</category>
 	<website>https://github.com/xwiki-contrib/cristal-integration-nextcloud</website>
-	<bugs>https://github.com/xwiki-contrib/cristal-integration-nextcloud</bugs>
 	<repository>https://github.com/xwiki-contrib/cristal-integration-nextcloud</repository>
 	<bugs>https://jira.xwiki.org/projects/CRISTALNC/</bugs>
 	<screenshot>https://raw.githubusercontent.com/xwiki-contrib/cristal-integration-nextcloud/main/doc/cristal.png</screenshot>
