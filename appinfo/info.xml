@@ -4,14 +4,22 @@
 	<id>cristal</id>
 	<name>Cristal</name>
 	<summary>Integration of Cristal in Nextcloud</summary>
-	<description>Integrates the [Cristal UI](https://cristal.xwiki.org) in Nextcloud.</description>
+	<description><![CDATA[The Cristal app is a wiki application for [Nextcloud](https://www.nextcloud.com/). It provides usual wiki features such as page hierarchy, linking pages, a rich editor, or attachments.
+
+    The wiki content is persisted in the user's files in Markdown.
+
+		This is an integration of the [Cristal UI](https://cristal.xwiki.org) in Nextcloud, which is also usable in other contexts.]]></description>
 	<version>1.0.0</version>
 	<licence>agpl</licence>
 	<author mail="devs@xwiki.org" homepage="https://www.xwiki.org/">XWiki Development Team</author>
 	<namespace>Cristal</namespace>
 	<category>organization</category>
 	<category>social</category>
+	<website>https://github.com/xwiki-contrib/cristal-integration-nextcloud</website>
+	<bugs>https://github.com/xwiki-contrib/cristal-integration-nextcloud</bugs>
+	<repository>https://github.com/xwiki-contrib/cristal-integration-nextcloud</repository>
 	<bugs>https://jira.xwiki.org/projects/CRISTALNC/</bugs>
+	<screenshot>https://raw.githubusercontent.com/xwiki-contrib/cristal-integration-nextcloud/main/doc/cristal.png</screenshot>
 	<dependencies>
 		<nextcloud min-version="30" max-version="32"/>
 	</dependencies>
