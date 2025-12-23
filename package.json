@@ -41,7 +41,7 @@
     "@xwiki/platform-uniast-api": "^18.0.0-0",
     "@xwiki/platform-uniast-markdown": "^18.0.0-0",
     "fast-xml-parser": "5.3.1",
-    "inversify": "7.10.4",
+    "inversify": "7.10.8",
     "vue-router": "4.6.3"
   },
   "devDependencies": {
