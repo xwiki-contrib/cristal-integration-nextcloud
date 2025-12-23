@@ -13,31 +13,31 @@ importers:
         version: 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-browser-default':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-dsvuetify':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-editors-blocknote':
         specifier: 0.25.0
-        version: 0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-hierarchy-nextcloud':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-lib':
         specifier: 0.25.0
-        version: 0.25.0(@floating-ui/dom@1.7.4)(@floating-ui/utils@0.2.10)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)
+        version: 0.25.0(@floating-ui/dom@1.7.4)(@floating-ui/utils@0.2.10)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)
       '@xwiki/cristal-link-suggest-nextcloud':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-model-reference-nextcloud':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-model-remote-url-nextcloud':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-navigation-tree-default':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-nextcloud-http-headers':
         specifier: 0.25.0
         version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
@@ -46,34 +46,34 @@ importers:
         version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-settings-browser':
         specifier: 0.25.0
-        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-api':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api':
         specifier: ^18.0.0-0
         version: 18.0.0-1766407509(reflect-metadata@0.2.2)
       '@xwiki/platform-backend-api':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-document-api':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api':
         specifier: ^18.0.0-0
         version: 18.0.0-1766407509
       '@xwiki/platform-model-remote-url-api':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-navigation-tree-api':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-uniast-api':
         specifier: ^18.0.0-0
         version: 18.0.0-1766407509
       '@xwiki/platform-uniast-markdown':
         specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       fast-xml-parser:
         specifier: 5.3.1
         version: 5.3.1
@@ -81,8 +81,8 @@ importers:
         specifier: 7.10.4
         version: 7.10.4(reflect-metadata@0.2.2)
       vue-router:
-        specifier: 4.6.3
-        version: 4.6.3(vue@3.5.25(typescript@5.8.2))
+        specifier: 4.6.4
+        version: 4.6.4(vue@3.5.25(typescript@5.8.2))
     devDependencies:
       '@nextcloud/browserslist-config':
         specifier: 3.1.2
@@ -2245,8 +2245,8 @@ packages:
   builtins@5.1.0:
     resolution: {integrity: sha512-SW9lzGTLvWTP1AY8xeAMZimqDrIaSdLQUcVr9DMef51niJ022Ri87SwRRKYm4A6iHfkPaiVUu/Duw2Wc4J7kKg==}
 
-  cacheable@2.3.0:
-    resolution: {integrity: sha512-HHiAvOBmlcR2f3SQ7kdlYD8+AUJG+wlFZ/Ze8tl1Vzvz0MdOh8IYA/EFU4ve8t1/sZ0j4MGi7ST5MoTwHessQA==}
+  cacheable@2.3.1:
+    resolution: {integrity: sha512-yr+FSHWn1ZUou5LkULX/S+jhfgfnLbuKQjE40tyEd4fxGZVMbBL5ifno0J0OauykS8UiCSgHi+DV/YD+rjFxFg==}
 
   call-bind-apply-helpers@1.0.2:
     resolution: {integrity: sha512-Sp1ablJ0ivDkSzjcaJdxEunN5/XvksFJ2sMBFfq6x0ryhQV/2b/KwFe21cMpmHtPOSij8K99/wSfoEuTObmuMQ==}
@@ -2539,8 +2539,8 @@ packages:
   error-ex@1.3.4:
     resolution: {integrity: sha512-sqQamAnR14VgCr1A618A3sGrygcpK+HEbenA/HiEAkkUwcZIIB/tgWqHFxWgOyDh4nB4JCRimh79dR5Ywc9MDQ==}
 
-  es-abstract@1.24.0:
-    resolution: {integrity: sha512-WSzPgsdLtTcQwm4CROfS5ju2Wa1QQcVeT37jFjYzdFz1r9ahadC8B8/a4qxJxM+09F18iumCdRmlr96ZYkQvEg==}
+  es-abstract@1.24.1:
+    resolution: {integrity: sha512-zHXBLhP+QehSSbsS9Pt23Gg964240DPd6QCf8WpkqEXxQ7fhdZzYsocOr5u7apWonsS5EjZDmTF+/slGMyasvw==}
     engines: {node: '>= 0.4'}
 
   es-define-property@1.0.1:
@@ -2962,8 +2962,8 @@ packages:
   hash.js@1.1.7:
     resolution: {integrity: sha512-taOaskGt4z4SOANNseOviYDvjEJinIkRgmp7LbKP2YTTmVxWBl87s/uzK9r+44BclBSp2X7K1hqeNfz9JbBeXA==}
 
-  hashery@1.2.0:
-    resolution: {integrity: sha512-43XJKpwle72Ik5Zpam7MuzRWyNdwwdf6XHlh8wCj2PggvWf+v/Dm5B0dxGZOmddidgeO6Ofu9As/o231Ti/9PA==}
+  hashery@1.3.0:
+    resolution: {integrity: sha512-fWltioiy5zsSAs9ouEnvhsVJeAXRybGCNNv0lvzpzNOSDbULXRy7ivFWwCCv4I5Am6kSo75hmbsCduOoc2/K4w==}
     engines: {node: '>=20'}
 
   hasown@2.0.2:
@@ -3028,8 +3028,8 @@ packages:
   hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
 
-  hookified@1.13.0:
-    resolution: {integrity: sha512-6sPYUY8olshgM/1LDNW4QZQN0IqgKhtl/1C8koNZBJrKLBk3AZl6chQtNwpNztvfiApHMEwMHek5rv993PRbWw==}
+  hookified@1.14.0:
+    resolution: {integrity: sha512-pi1ynXIMFx/uIIwpWJ/5CEtOHLGtnUB0WhGeeYT+fKcQ+WCQbm3/rrkAXnpfph++PgepNqPdTC2WTj8A6k6zoQ==}
 
   html-parse-stringify@3.0.1:
     resolution: {integrity: sha512-KknJ50kTInJ7qIScF3jeaFRpMpE8/lfiTdzf/twXyPBLAGrLRTmkz3AdTnKeh40X8k9L2fdYwEp/42WGXIRGcg==}
@@ -3307,15 +3307,12 @@ packages:
   keyv@4.5.4:
     resolution: {integrity: sha512-oxVHkHR/EJf2CNXnWxRLW6mg7JyCCUcG0DtEGmL2ctUo1PNTin1PUil+r/+4r5MpVgC/fn1kjsx7mjSujKqIpw==}
 
-  keyv@5.5.4:
-    resolution: {integrity: sha512-eohl3hKTiVyD1ilYdw9T0OiB4hnjef89e3dMYKz+mVKDzj+5IteTseASUsOB+EU9Tf6VNTCjDePcP6wkDGmLKQ==}
+  keyv@5.5.5:
+    resolution: {integrity: sha512-FA5LmZVF1VziNc0bIdCSA1IoSVnDCqE8HJIZZv2/W8YmoAM50+tnUgJR/gQZwEeIMleuIOnRnHA/UaZRNeV4iQ==}
 
   kind-of@6.0.3:
     resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
     engines: {node: '>=0.10.0'}
-
-  known-css-properties@0.36.0:
-    resolution: {integrity: sha512-A+9jP+IUmuQsNdsLdcg6Yt7voiMF/D4K83ew0OpJtpu+l34ef7LaohWV0Rc6KNvzw6ZDizkqfyB5JznZnzuKQA==}
 
   known-css-properties@0.37.0:
     resolution: {integrity: sha512-JCDrsP4Z1Sb9JwG0aJ8Eo2r7k4Ou5MwmThS/6lcIe1ICyb7UBJKGRIUUdqc2ASdE/42lgz6zFUnzAIhtXnBVrQ==}
@@ -3920,8 +3917,8 @@ packages:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
     engines: {node: '>=6'}
 
-  qified@0.5.2:
-    resolution: {integrity: sha512-7gJ6mxcQb9vUBOtbKm5mDevbe2uRcOEVp1g4gb/Q+oLntB3HY8eBhOYRxFI2mlDFlY1e4DOSCptzxarXRvzxCA==}
+  qified@0.5.3:
+    resolution: {integrity: sha512-kXuQdQTB6oN3KhI6V4acnBSZx8D2I4xzZvn9+wFLLFCoBNQY/sFnCW6c43OL7pOQ2HvGV4lnWIXNmgfp7cTWhQ==}
     engines: {node: '>=20'}
 
   qr-creator@1.0.0:
@@ -4381,11 +4378,11 @@ packages:
     peerDependencies:
       stylelint: ^16.23.0
 
-  stylelint-scss@6.12.1:
-    resolution: {integrity: sha512-UJUfBFIvXfly8WKIgmqfmkGKPilKB4L5j38JfsDd+OCg2GBdU0vGUV08Uw82tsRZzd4TbsUURVVNGeOhJVF7pA==}
+  stylelint-scss@6.13.0:
+    resolution: {integrity: sha512-kZPwFUJkfup2gP1enlrS2h9U5+T5wFoqzJ1n/56AlpwSj28kmFe7ww/QFydvPsg5gLjWchAwWWBLtterynZrOw==}
     engines: {node: '>=18.12.0'}
     peerDependencies:
-      stylelint: ^16.0.2
+      stylelint: ^16.8.2
 
   stylelint-use-logical@2.1.2:
     resolution: {integrity: sha512-4ffvPNk/swH4KS3izExWuzQOuzLmi0gb0uOhvxWJ20vDA5W5xKCjcHHtLoAj1kKvTIX6eGIN5xGtaVin9PD0wg==}
@@ -4717,8 +4714,8 @@ packages:
     peerDependencies:
       vue: ^3.0.0
 
-  vue-router@4.6.3:
-    resolution: {integrity: sha512-ARBedLm9YlbvQomnmq91Os7ck6efydTSpRP3nuOKCvgJOHNrhRoJDSKtee8kcL1Vf7nz6U+PMBL+hTvR3bTVQg==}
+  vue-router@4.6.4:
+    resolution: {integrity: sha512-Hz9q5sa33Yhduglwz6g9skT8OBPii+4bFn88w6J+J4MfEo4KRRpmiNG/hHHkdbRFlLBOqxN8y8gf2Fb0MTUgVg==}
     peerDependencies:
       vue: ^3.5.0
 
@@ -5068,14 +5065,14 @@ snapshots:
   '@cacheable/memory@2.0.6':
     dependencies:
       '@cacheable/utils': 2.3.2
-      '@keyv/bigmap': 1.3.0(keyv@5.5.4)
-      hookified: 1.13.0
-      keyv: 5.5.4
+      '@keyv/bigmap': 1.3.0(keyv@5.5.5)
+      hookified: 1.14.0
+      keyv: 5.5.5
 
   '@cacheable/utils@2.3.2':
     dependencies:
-      hashery: 1.2.0
-      keyv: 5.5.4
+      hashery: 1.3.0
+      keyv: 5.5.5
 
   '@csstools/css-parser-algorithms@3.0.5(@csstools/css-tokenizer@3.0.4)':
     dependencies:
@@ -5351,11 +5348,11 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@keyv/bigmap@1.3.0(keyv@5.5.4)':
+  '@keyv/bigmap@1.3.0(keyv@5.5.5)':
     dependencies:
-      hashery: 1.2.0
-      hookified: 1.13.0
-      keyv: 5.5.4
+      hashery: 1.3.0
+      hookified: 1.14.0
+      keyv: 5.5.5
 
   '@keyv/serialize@1.1.1': {}
 
@@ -6157,10 +6154,10 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
 
-  '@xwiki/cristal-alerts-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-alerts-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       pinia: 3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
@@ -6169,10 +6166,10 @@ snapshots:
       - typescript
       - vue-router
 
-  '@xwiki/cristal-alerts-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-alerts-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -6180,30 +6177,30 @@ snapshots:
     transitivePeerDependencies:
       - vue-router
 
-  '@xwiki/cristal-attachments-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-attachments-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-date-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-date-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-extra-tabs-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-file-preview-ui': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-info-actions-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-user-ui': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-attachments-api': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
 
-  '@xwiki/cristal-authentication-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-authentication-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6217,13 +6214,13 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
 
-  '@xwiki/cristal-authentication-github-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-authentication-github-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-authentication-github-state': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
@@ -6239,11 +6236,11 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
 
-  '@xwiki/cristal-authentication-nextcloud-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-authentication-nextcloud-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-authentication-nextcloud-state': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6252,11 +6249,11 @@ snapshots:
     transitivePeerDependencies:
       - vue-router
 
-  '@xwiki/cristal-authentication-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-authentication-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
@@ -6266,11 +6263,11 @@ snapshots:
     transitivePeerDependencies:
       - vue-router
 
-  '@xwiki/cristal-backend-dexie@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-backend-dexie@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-sharedworker-api': 0.25.0(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       dexie: 4.2.1
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6278,14 +6275,14 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-backend-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-backend-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-page-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-utils-inversify': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       mime: 4.1.0
       reflect-metadata: 0.2.2
@@ -6293,15 +6290,15 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-backend-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-backend-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-nextcloud-http-headers': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-page-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-utils-inversify': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       fast-xml-parser: 5.3.2
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6309,45 +6306,45 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-backend-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-backend-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-utils-inversify': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/cristal-xwiki-utils': 0.25.0
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-browser-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-browser-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - inversify
       - reflect-metadata
       - vue
       - vue-router
 
-  '@xwiki/cristal-browser-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-browser-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
     transitivePeerDependencies:
       - vue-router
 
-  '@xwiki/cristal-collaboration-hocuspocus@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)':
+  '@xwiki/cristal-collaboration-hocuspocus@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)':
     dependencies:
       '@hocuspocus/provider': 2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -6368,22 +6365,22 @@ snapshots:
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
 
-  '@xwiki/cristal-date-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-date-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-date-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
     transitivePeerDependencies:
       - inversify
       - vue-router
 
-  '@xwiki/cristal-document-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-document-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       pinia: 3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
@@ -6392,16 +6389,16 @@ snapshots:
       - typescript
       - vue-router
 
-  '@xwiki/cristal-dsshoelace@0.25.0(@floating-ui/utils@0.2.10)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-dsshoelace@0.25.0(@floating-ui/utils@0.2.10)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@shoelace-style/shoelace': 2.20.1(@floating-ui/utils@0.2.10)(@types/react@19.2.7)
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -6411,15 +6408,15 @@ snapshots:
       - '@types/react'
       - vue-router
 
-  '@xwiki/cristal-dsvuetify@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-dsvuetify@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -6431,28 +6428,28 @@ snapshots:
       - vue-router
       - webpack-plugin-vuetify
 
-  '@xwiki/cristal-editors-blocknote@0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-editors-blocknote@0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-editors-blocknote-headless': 18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-editors-blocknote-headless': 18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-macros-service': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-uniast-api': 18.0.0-1766398944
-      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       lodash-es: 4.17.21
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - '@floating-ui/dom'
       - '@hocuspocus/provider'
@@ -6467,19 +6464,19 @@ snapshots:
       - supports-color
       - typescript
 
-  '@xwiki/cristal-extension-manager@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-extension-manager@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-extension-menubuttons@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-extension-menubuttons@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -6503,10 +6500,10 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@xwiki/cristal-extra-tabs-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-extra-tabs-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-extra-tabs-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
     transitivePeerDependencies:
@@ -6521,9 +6518,9 @@ snapshots:
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
 
-  '@xwiki/cristal-hierarchy-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-hierarchy-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
     transitivePeerDependencies:
       - inversify
@@ -6531,10 +6528,10 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-hierarchy-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-hierarchy-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6542,11 +6539,11 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-hierarchy-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-hierarchy-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6554,11 +6551,11 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-hierarchy-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-hierarchy-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6566,25 +6563,25 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-hierarchy-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-hierarchy-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-xwiki-utils': 0.25.0
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-history-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-history-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - inversify
@@ -6592,21 +6589,21 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-history-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-history-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-history-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-history-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6614,25 +6611,25 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-history-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-history-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-extra-tabs-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-user-ui': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
 
-  '@xwiki/cristal-history-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-history-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-xwiki-utils': 0.25.0
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -6654,96 +6651,96 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@xwiki/cristal-info-actions-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-info-actions-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-info-actions-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - inversify
 
-  '@xwiki/cristal-lib@0.25.0(@floating-ui/dom@1.7.4)(@floating-ui/utils@0.2.10)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)':
+  '@xwiki/cristal-lib@0.25.0(@floating-ui/dom@1.7.4)(@floating-ui/utils@0.2.10)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)':
     dependencies:
-      '@xwiki/cristal-alerts-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-attachments-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-authentication-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-authentication-github-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-authentication-nextcloud-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-authentication-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-dexie': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-collaboration-hocuspocus': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)
+      '@xwiki/cristal-alerts-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-attachments-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-github-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-nextcloud-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-dexie': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-browser-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-collaboration-hocuspocus': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28)
       '@xwiki/cristal-date-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/cristal-document-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-dsshoelace': 0.25.0(@floating-ui/utils@0.2.10)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-dsvuetify': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-editors-blocknote': 0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-extension-manager': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-extension-menubuttons': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-document-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-dsshoelace': 0.25.0(@floating-ui/utils@0.2.10)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-dsvuetify': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-editors-blocknote': 0.25.0(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-extension-manager': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-extension-menubuttons': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-extra-tabs-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-history-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-history-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-info-actions-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-link-suggest-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-link-suggest-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-macros-ast-html-converter': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-link-suggest-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-link-suggest-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-macros-ast-html-converter': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-messages-macros': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-reference-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-reference-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-reference-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-remote-url-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-remote-url-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-remote-url-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-navigation-tree-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-navigation-tree-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-navigation-tree-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-reference-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-reference-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-reference-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-remote-url-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-remote-url-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-remote-url-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-nextcloud-http-headers': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-page-actions-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-page-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-rename-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-page-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-rename-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-settings-api': 0.25.0
       '@xwiki/cristal-settings-configurations': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/cristal-settings-configurations-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-settings-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-sharedworker-impl': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-settings-configurations-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-settings-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-sharedworker-impl': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-uniast-html': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-wiki-config-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-uniast-html': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-wiki-config-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-xwiki-macros': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/cristal-xwiki-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-attachments-default': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(pinia@3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2)))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-xwiki-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-attachments-default': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(pinia@3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2)))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-macros-service': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       pinia: 3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - '@floating-ui/dom'
       - '@floating-ui/utils'
@@ -6765,15 +6762,15 @@ snapshots:
       - y-protocols
       - yjs
 
-  '@xwiki/cristal-link-suggest-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-link-suggest-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-nextcloud-http-headers': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       xml-escape: 1.1.0
@@ -6781,25 +6778,25 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-link-suggest-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-link-suggest-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-macros-ast-html-converter@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-macros-ast-html-converter@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-macros-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
@@ -6812,47 +6809,47 @@ snapshots:
       '@xwiki/platform-macros-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
 
-  '@xwiki/cristal-model-click-listener@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-click-listener@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-attachments-api': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-reference-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-reference-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-reference-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-reference-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-nextcloud-http-headers': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-reference-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-reference-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       lodash-es: 4.17.21
       reflect-metadata: 0.2.2
@@ -6860,88 +6857,88 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-remote-url-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-remote-url-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-remote-url-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-remote-url-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-model-remote-url-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-model-remote-url-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-navigation-tree-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-navigation-tree-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-navigation-tree-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-navigation-tree-github@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-navigation-tree-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-navigation-tree-nextcloud@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-navigation-tree-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-nextcloud-http-headers': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/cristal-navigation-tree-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-navigation-tree-xwiki@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
@@ -6970,19 +6967,19 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@xwiki/cristal-page-actions-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-page-actions-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-page-actions-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-rename-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-rename-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -7003,19 +7000,19 @@ snapshots:
       - inversify
       - reflect-metadata
 
-  '@xwiki/cristal-rename-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-rename-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - inversify
       - reflect-metadata
       - vue
       - vue-router
 
-  '@xwiki/cristal-rename-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-rename-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-rename-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-rename-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
@@ -7024,25 +7021,25 @@ snapshots:
 
   '@xwiki/cristal-settings-api@0.25.0': {}
 
-  '@xwiki/cristal-settings-browser@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-settings-browser@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-settings-api': 0.25.0
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
       - vue
       - vue-router
 
-  '@xwiki/cristal-settings-configurations-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-settings-configurations-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-settings-api': 0.25.0
       '@xwiki/cristal-settings-configurations': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
-      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-skin': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
@@ -7059,10 +7056,10 @@ snapshots:
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
 
-  '@xwiki/cristal-settings-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-settings-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-settings-api': 0.25.0
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
@@ -7073,62 +7070,62 @@ snapshots:
     dependencies:
       reflect-metadata: 0.2.2
 
-  '@xwiki/cristal-sharedworker-impl@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-sharedworker-impl@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-alerts-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-authentication-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-dexie': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-backend-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-alerts-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-authentication-default': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-dexie': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-github': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-nextcloud': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-backend-xwiki': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-configuration-web': 0.25.0
-      '@xwiki/cristal-extension-manager': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-extension-manager': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-sharedworker-api': 0.25.0(reflect-metadata@0.2.2)
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       comlink: 4.4.2
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - typescript
 
-  '@xwiki/cristal-skin@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-skin@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-alerts-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-alerts-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-date-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-alerts-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-date-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-extra-tabs-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-extra-tabs-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-extra-tabs-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-hierarchy-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-info-actions-api': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-info-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-page-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-info-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-model-click-listener': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-page-actions-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-settings-api': 0.25.0
       '@xwiki/cristal-settings-configurations': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-uiextension-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-uniast-html': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-uiextension-ui': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-uniast-html': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/cristal-user-ui': 0.25.0(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
       vue-i18n: 11.2.2(vue@3.5.25(typescript@5.8.2))
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
     transitivePeerDependencies:
       - supports-color
 
@@ -7148,19 +7145,19 @@ snapshots:
     transitivePeerDependencies:
       - vue
 
-  '@xwiki/cristal-uiextension-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-uiextension-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
     transitivePeerDependencies:
       - inversify
       - vue-router
 
-  '@xwiki/cristal-uniast-html@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-uniast-html@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-macros-ast-html-converter': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-macros-ast-html-converter': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-macros-service': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
@@ -7182,9 +7179,9 @@ snapshots:
     dependencies:
       inversify: 7.10.4(reflect-metadata@0.2.2)
 
-  '@xwiki/cristal-wiki-config-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-wiki-config-api@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -7192,10 +7189,10 @@ snapshots:
       - inversify
       - vue-router
 
-  '@xwiki/cristal-wiki-config-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-wiki-config-default@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/cristal-wiki-config-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -7208,10 +7205,10 @@ snapshots:
       '@xwiki/platform-macros-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
 
-  '@xwiki/cristal-xwiki-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/cristal-xwiki-ui@0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/cristal-uiextension-api': 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -7222,23 +7219,23 @@ snapshots:
 
   '@xwiki/cristal-xwiki-utils@0.25.0': {}
 
-  '@xwiki/platform-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
       '@xwiki/platform-configuration-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
 
-  '@xwiki/platform-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-authentication-api': 18.0.0-1766407509(reflect-metadata@0.2.2)
       '@xwiki/platform-configuration-api': 18.0.0-1766407509
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
-      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+      vue-router: 4.6.4(vue@3.5.25(typescript@5.8.2))
 
   '@xwiki/platform-attachments-api@18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))':
     dependencies:
@@ -7247,14 +7244,14 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
 
-  '@xwiki/platform-attachments-default@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(pinia@3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2)))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-attachments-default@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(pinia@3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2)))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-attachments-api': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-backend-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       pinia: 3.0.4(typescript@5.8.2)(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
@@ -7270,27 +7267,27 @@ snapshots:
     dependencies:
       reflect-metadata: 0.2.2
 
-  '@xwiki/platform-backend-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-backend-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/platform-backend-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-backend-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
       - vue
       - vue-router
 
-  '@xwiki/platform-collaboration-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-collaboration-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -7306,9 +7303,9 @@ snapshots:
     dependencies:
       utility-types: 3.11.0
 
-  '@xwiki/platform-document-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-document-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -7316,9 +7313,9 @@ snapshots:
       - inversify
       - vue-router
 
-  '@xwiki/platform-document-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-document-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766407509
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
@@ -7326,19 +7323,19 @@ snapshots:
       - inversify
       - vue-router
 
-  '@xwiki/platform-dsapi@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-dsapi@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-navigation-tree-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
     transitivePeerDependencies:
       - inversify
       - vue-router
 
-  '@xwiki/platform-editors-blocknote-headless@18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-editors-blocknote-headless@18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@blocknote/core': 0.42.3(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)
       '@tiptap/core': 3.13.0(@tiptap/pm@3.13.0)
@@ -7346,17 +7343,17 @@ snapshots:
       '@tiptap/pm': 3.13.0
       '@xwiki/platform-attachments-api': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
-      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-editors-blocknote-react': 18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-dsapi': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-editors-blocknote-react': 18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-icons': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-macros-api': 18.0.0-1766398944
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-uniast-api': 18.0.0-1766398944
       eventemitter3: 5.0.1
       inversify: 7.10.4(reflect-metadata@0.2.2)
@@ -7379,7 +7376,7 @@ snapshots:
       - typescript
       - vue-router
 
-  '@xwiki/platform-editors-blocknote-react@18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-editors-blocknote-react@18.0.0-1766398944(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/utils@6.0.22(react@19.2.0))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)(@types/react@19.2.7)(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.8.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@blocknote/core': 0.42.3(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)
       '@blocknote/mantine': 0.42.3(@floating-ui/dom@1.7.4)(@hocuspocus/provider@2.15.3(y-protocols@1.0.6(yjs@13.6.28))(yjs@13.6.28))(@mantine/core@8.3.10(@mantine/hooks@8.3.10(react@19.2.0))(@types/react@19.2.7)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@mantine/hooks@8.3.10(react@19.2.0))(@mantine/utils@6.0.22(react@19.2.0))(@tiptap/extensions@3.13.0(@tiptap/core@3.13.0(@tiptap/pm@3.13.0))(@tiptap/pm@3.13.0))(@types/hast@3.0.4)(@types/react-dom@19.2.2(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
@@ -7388,16 +7385,16 @@ snapshots:
       '@mantine/hooks': 8.3.10(react@19.2.0)
       '@types/react-dom': 19.2.2(@types/react@19.2.7)
       '@xwiki/platform-attachments-api': 18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-collaboration-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
-      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-link-suggest-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-macros-api': 18.0.0-1766398944
-      '@xwiki/platform-macros-ast-react-jsx': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-macros-ast-react-jsx': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
-      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-reference-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-uniast-markdown': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       i18next: 25.5.3(typescript@5.8.2)
       lodash-es: 4.17.21
       react: 19.2.0
@@ -7433,9 +7430,9 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.25(typescript@5.8.2)
 
-  '@xwiki/platform-link-suggest-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-link-suggest-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
     transitivePeerDependencies:
@@ -7446,11 +7443,11 @@ snapshots:
 
   '@xwiki/platform-macros-api@18.0.0-1766407509': {}
 
-  '@xwiki/platform-macros-ast-react-jsx@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-macros-ast-react-jsx@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-macros-api': 18.0.0-1766398944
-      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-model-remote-url-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       inversify: 7.10.4(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
@@ -7471,9 +7468,9 @@ snapshots:
 
   '@xwiki/platform-model-api@18.0.0-1766407509': {}
 
-  '@xwiki/platform-model-reference-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-model-reference-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -7481,9 +7478,9 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-model-remote-url-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-model-remote-url-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -7491,9 +7488,9 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-model-remote-url-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-model-remote-url-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766407509
       inversify: 7.10.4(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -7501,9 +7498,9 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-navigation-tree-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-navigation-tree-api@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
     transitivePeerDependencies:
       - inversify
@@ -7511,9 +7508,9 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-navigation-tree-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-navigation-tree-api@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-model-api': 18.0.0-1766407509
     transitivePeerDependencies:
       - inversify
@@ -7529,10 +7526,10 @@ snapshots:
     dependencies:
       '@xwiki/platform-model-api': 18.0.0-1766407509
 
-  '@xwiki/platform-uniast-markdown@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-uniast-markdown@18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766398944
       '@xwiki/platform-macros-service': 18.0.0-1766398944(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/platform-model-api': 18.0.0-1766398944
@@ -7553,10 +7550,10 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-uniast-markdown@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+  '@xwiki/platform-uniast-markdown@18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
     dependencies:
-      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
-      '@xwiki/platform-document-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+      '@xwiki/platform-document-api': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-fn-utils': 18.0.0-1766407509
       '@xwiki/platform-macros-service': 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))
       '@xwiki/platform-model-api': 18.0.0-1766407509
@@ -7647,7 +7644,7 @@ snapshots:
       call-bind: 1.0.8
       call-bound: 1.0.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
       get-intrinsic: 1.3.0
       is-string: 1.1.1
@@ -7660,7 +7657,7 @@ snapshots:
       call-bind: 1.0.8
       call-bound: 1.0.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
       es-shim-unscopables: 1.1.0
@@ -7669,14 +7666,14 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-shim-unscopables: 1.1.0
 
   array.prototype.flatmap@1.3.3:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-shim-unscopables: 1.1.0
 
   arraybuffer.prototype.slice@1.0.4:
@@ -7684,7 +7681,7 @@ snapshots:
       array-buffer-byte-length: 1.0.2
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       get-intrinsic: 1.3.0
       is-array-buffer: 3.0.5
@@ -7822,13 +7819,13 @@ snapshots:
     dependencies:
       semver: 7.7.3
 
-  cacheable@2.3.0:
+  cacheable@2.3.1:
     dependencies:
       '@cacheable/memory': 2.0.6
       '@cacheable/utils': 2.3.2
-      hookified: 1.13.0
-      keyv: 5.5.4
-      qified: 0.5.2
+      hookified: 1.14.0
+      keyv: 5.5.5
+      qified: 0.5.3
 
   call-bind-apply-helpers@1.0.2:
     dependencies:
@@ -8125,7 +8122,7 @@ snapshots:
     dependencies:
       is-arrayish: 0.2.1
 
-  es-abstract@1.24.0:
+  es-abstract@1.24.1:
     dependencies:
       array-buffer-byte-length: 1.0.2
       arraybuffer.prototype.slice: 1.0.4
@@ -8546,9 +8543,9 @@ snapshots:
 
   flat-cache@6.1.19:
     dependencies:
-      cacheable: 2.3.0
+      cacheable: 2.3.1
       flatted: 3.3.3
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   flatted@3.3.3: {}
 
@@ -8702,9 +8699,9 @@ snapshots:
       inherits: 2.0.4
       minimalistic-assert: 1.0.1
 
-  hashery@1.2.0:
+  hashery@1.3.0:
     dependencies:
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   hasown@2.0.2:
     dependencies:
@@ -8843,7 +8840,7 @@ snapshots:
 
   hookable@5.5.3: {}
 
-  hookified@1.13.0: {}
+  hookified@1.14.0: {}
 
   html-parse-stringify@3.0.1:
     dependencies:
@@ -9098,13 +9095,11 @@ snapshots:
     dependencies:
       json-buffer: 3.0.1
 
-  keyv@5.5.4:
+  keyv@5.5.5:
     dependencies:
       '@keyv/serialize': 1.1.1
 
   kind-of@6.0.3: {}
-
-  known-css-properties@0.36.0: {}
 
   known-css-properties@0.37.0: {}
 
@@ -9625,14 +9620,14 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
 
   object.groupby@1.0.3:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
 
   object.values@1.2.1:
     dependencies:
@@ -9931,9 +9926,9 @@ snapshots:
 
   punycode@2.3.1: {}
 
-  qified@0.5.2:
+  qified@0.5.3:
     dependencies:
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   qr-creator@1.0.0: {}
 
@@ -10042,7 +10037,7 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
       get-intrinsic: 1.3.0
@@ -10409,7 +10404,7 @@ snapshots:
       call-bound: 1.0.4
       define-data-property: 1.1.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
       has-property-descriptors: 1.0.2
 
@@ -10461,7 +10456,7 @@ snapshots:
       postcss-scss: 4.0.9(postcss@8.5.6)
       stylelint: 16.26.0(typescript@5.8.2)
       stylelint-config-recommended: 16.0.0(stylelint@16.26.0(typescript@5.8.2))
-      stylelint-scss: 6.12.1(stylelint@16.26.0(typescript@5.8.2))
+      stylelint-scss: 6.13.0(stylelint@16.26.0(typescript@5.8.2))
     optionalDependencies:
       postcss: 8.5.6
 
@@ -10481,11 +10476,11 @@ snapshots:
     dependencies:
       stylelint: 16.26.0(typescript@5.8.2)
 
-  stylelint-scss@6.12.1(stylelint@16.26.0(typescript@5.8.2)):
+  stylelint-scss@6.13.0(stylelint@16.26.0(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
-      known-css-properties: 0.36.0
+      known-css-properties: 0.37.0
       mdn-data: 2.25.0
       postcss-media-query-parser: 0.2.3
       postcss-resolve-nested-selector: 0.1.6
@@ -10891,7 +10886,7 @@ snapshots:
       '@vue/devtools-api': 6.6.4
       vue: 3.5.25(typescript@5.8.2)
 
-  vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)):
+  vue-router@4.6.4(vue@3.5.25(typescript@5.8.2)):
     dependencies:
       '@vue/devtools-api': 6.6.4
       vue: 3.5.25(typescript@5.8.2)
