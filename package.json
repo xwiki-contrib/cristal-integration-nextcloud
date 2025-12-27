@@ -31,7 +31,7 @@
     "@xwiki/cristal-nextcloud-http-headers": "0.25.0",
     "@xwiki/cristal-page-default": "0.25.0",
     "@xwiki/cristal-settings-browser": "0.25.0",
-    "@xwiki/platform-api": "^18.0.0-0",
+    "@xwiki/platform-api": "^18.0.0-1766580525",
     "@xwiki/platform-authentication-api": "^18.0.0-0",
     "@xwiki/platform-backend-api": "^18.0.0-0",
     "@xwiki/platform-document-api": "^18.0.0-0",
