@@ -38,7 +38,7 @@
     "@xwiki/platform-model-api": "^18.0.0-0",
     "@xwiki/platform-model-remote-url-api": "^18.0.0-0",
     "@xwiki/platform-navigation-tree-api": "^18.0.0-0",
-    "@xwiki/platform-uniast-api": "^18.0.0-0",
+    "@xwiki/platform-uniast-api": "^18.0.0-1766580525",
     "@xwiki/platform-uniast-markdown": "^18.0.0-0",
     "fast-xml-parser": "5.3.1",
     "inversify": "7.10.4",
