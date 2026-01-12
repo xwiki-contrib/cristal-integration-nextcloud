@@ -18,27 +18,15 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-/* This targets the "content" node used by the Nextcloud wrapper. */
-div#content {
-  display: grid;
-  background-color: var(--cr-panel-background-color);
-}
+import { NextcloudDesignSystemLoader } from "./nextcloudDesignSystemLoader";
+import type { DesignSystemLoader } from "@xwiki/platform-api";
+import type { Container } from "inversify";
 
-/* This targets the "content" node used by Cristal. */
-article#content {
-  display: grid;
-  height: 100%;
-  padding: 0 var(--cr-spacing-2x-large);
-  overflow: auto;
-  margin: unset;
-  width: unset;
-}
-
-article#content:not(.with-sidebar--full) {
-  position: unset;
-}
-
-/* This targets the editor. */
-article#content .editor div[contenteditable="true"] {
-  width: unset !important;
+export default class ComponentInit {
+  constructor(container: Container) {
+    container
+      .bind<DesignSystemLoader>("DesignSystemLoader")
+      .to(NextcloudDesignSystemLoader)
+      .whenNamed("nextcloud");
+  }
 }
