@@ -18,27 +18,13 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-/* This targets the "content" node used by the Nextcloud wrapper. */
-div#content {
-  display: grid;
-  background-color: var(--cr-panel-background-color);
-}
+import de from "../../langs/translation-de.json";
+import en from "../../langs/translation-en.json";
+import fr from "../../langs/translation-fr.json";
 
-/* This targets the "content" node used by Cristal. */
-article#content {
-  display: grid;
-  height: 100%;
-  padding: 0 var(--cr-spacing-2x-large);
-  overflow: auto;
-  margin: unset;
-  width: unset;
-}
-
-article#content:not(.with-sidebar--full) {
-  position: unset;
-}
-
-/* This targets the editor. */
-article#content .editor div[contenteditable="true"] {
-  width: unset !important;
-}
+const translations: Record<string, Record<string, string>> = {
+  en,
+  fr,
+  de,
+};
+export default translations;
