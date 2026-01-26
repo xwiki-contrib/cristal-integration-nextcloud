@@ -4,11 +4,37 @@
 	<id>cristal</id>
 	<name>Cristal</name>
 	<summary>Integration of Cristal in Nextcloud</summary>
-	<description><![CDATA[The Cristal app is a wiki application for [Nextcloud](https://www.nextcloud.com/). It provides usual wiki features such as page hierarchy, linking pages, a rich editor, or attachments.
+	<description><![CDATA[The [Cristal integration](https://github.com/xwiki-contrib/cristal-integration-nextcloud) for Nextcloud adds a modern, wiki-style note-taking interface on top of your Nextcloud files.
 
-The wiki content is persisted in the user's files in Markdown.
+Cristal is designed for flexibility, a user-friendly UI, and organized knowledge, without lock-in or unnecessary complexity.
 
-This is an integration of the [Cristal UI](https://cristal.xwiki.org) in Nextcloud, which is also usable in other contexts.]]></description>
+## Features
+
+With the Cristal integration in Nextcloud you can:
+
+* Write notes and organize your thoughts in pages.
+* Structure pages into a hierarchy (as many levels as you want).
+* Link pages together.
+* Manage attachments from Nextcloud in Cristal.
+* Navigate with the navigation tree.
+* Use auto-suggestion to find content.
+* Keep your wiki content in Markdown files.
+
+If you uninstall Cristal, all your data, pages and attachments, remain accessible in Nextcloud.
+
+## How to start
+
+Admins logged into the Nextcloud App Store can install Cristal in one click from this page. The installation is done for all the users of the instance. No need for complex configs or setups.
+
+## Contribute to the Cristal integration
+
+Cristal is open source and any contributions are welcome!
+
+You can help improve the application, leave feedback in the comments, or use the "Request feature" and "Report problem" buttons.
+
+## What is Cristal?
+
+[Cristal](https://cristal.xwiki.org/xwiki/bin/view/Main/) is an open-source, modern, modular wiki UI that is able to connect to various back-ends (e.g., a Nextcloud or a [XWiki](https://xwiki.org/xwiki/bin/view/Main/) instance, or GitHub, or a local folder). It focuses on offline editing with sync, and embeddability. This makes your content portable and accessible anywhere: in the browser, on your desktop, or inside another platform.]]></description>
 	<version>1.0.0</version>
 	<licence>agpl</licence>
 	<author mail="devs@xwiki.org" homepage="https://www.xwiki.org/">XWiki Development Team</author>
