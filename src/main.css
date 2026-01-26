@@ -38,7 +38,32 @@ article#content:not(.with-sidebar--full) {
   position: unset;
 }
 
+/* This targets italic text inside the page and editor. */
+article#content em {
+  font-style: italic;
+  color: inherit;
+}
+
+/* This targets the doc header, important during edition. */
+article#content .doc-title {
+  height: unset;
+}
+
 /* This targets the editor. */
 article#content .editor div[contenteditable="true"] {
-  width: unset !important;
+  width: unset;
 }
+
+/* This targets the floating menu of Blocknote. */
+article#content .editor .bn-side-menu {
+  /* We adjust the positioning to take into account Nextcloud's padding. */
+  position: relative;
+  left: -20px;
+  top: -4px;
+}
+
+/* This targets the buttons from the floating menu of Blocknote. */
+article#content .editor .bn-side-menu button {
+  padding: 0;
+}
+
