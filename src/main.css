@@ -67,3 +67,7 @@ article#content .editor .bn-side-menu button {
   padding: 0;
 }
 
+/* This targets floating input fields in Blocknote. */
+article#content .editor .bn-form-popover input {
+  padding: 0 var(--input-padding-inline-end) 0 var(--input-padding-inline-start);
+}
