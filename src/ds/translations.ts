@@ -18,15 +18,13 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-/* We scope the following rules to not impact Nextcloud's header.
-   All of these rules should no longer be required once we have a Nextcloud ds
-   that supports dark mode. */
-.xw-cristal {
-  button.v-btn {
-    font-weight: unset !important;
-    border-radius: unset !important;
-    background-color: unset !important;
-    border: unset !important;
-    color: unset !important;
-  }
-}
+import de from "../../langs/translation-de.json";
+import en from "../../langs/translation-en.json";
+import fr from "../../langs/translation-fr.json";
+
+const translations: Record<string, Record<string, string>> = {
+  en,
+  fr,
+  de,
+};
+export default translations;

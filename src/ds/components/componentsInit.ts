@@ -18,15 +18,15 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-/* We scope the following rules to not impact Nextcloud's header.
-   All of these rules should no longer be required once we have a Nextcloud ds
-   that supports dark mode. */
-.xw-cristal {
-  button.v-btn {
-    font-weight: unset !important;
-    border-radius: unset !important;
-    background-color: unset !important;
-    border: unset !important;
-    color: unset !important;
+import { NextcloudDesignSystemLoader } from "./nextcloudDesignSystemLoader";
+import type { DesignSystemLoader } from "@xwiki/platform-api";
+import type { Container } from "inversify";
+
+export default class ComponentInit {
+  constructor(container: Container) {
+    container
+      .bind<DesignSystemLoader>("DesignSystemLoader")
+      .to(NextcloudDesignSystemLoader)
+      .whenNamed("nextcloud");
   }
 }

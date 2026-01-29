@@ -21,9 +21,7 @@
 /* This targets the "content" node used by the Nextcloud wrapper. */
 div#content {
   display: grid;
-  /* TODO: replace with `var(--color-main-background)` once dark mode support
-     is implemented (see CRISTALNC-13). */
-  background-color: #ffffff;
+  background-color: var(--cr-panel-background-color);
 }
 
 /* This targets the "content" node used by Cristal. */
@@ -38,4 +36,38 @@ article#content {
 
 article#content:not(.with-sidebar--full) {
   position: unset;
+}
+
+/* This targets italic text inside the page and editor. */
+article#content em {
+  font-style: italic;
+  color: inherit;
+}
+
+/* This targets the doc header, important during edition. */
+article#content .doc-title {
+  height: unset;
+}
+
+/* This targets the editor. */
+article#content .editor div[contenteditable="true"] {
+  width: unset;
+}
+
+/* This targets the floating menu of Blocknote. */
+article#content .editor .bn-side-menu {
+  /* We adjust the positioning to take into account Nextcloud's padding. */
+  position: relative;
+  left: -20px;
+  top: -4px;
+}
+
+/* This targets the buttons from the floating menu of Blocknote. */
+article#content .editor .bn-side-menu button {
+  padding: 0;
+}
+
+/* This targets floating input fields in Blocknote. */
+article#content .editor .bn-form-popover input {
+  padding: 0 var(--input-padding-inline-end) 0 var(--input-padding-inline-start);
 }

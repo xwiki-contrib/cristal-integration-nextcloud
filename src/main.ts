@@ -23,8 +23,8 @@ import "./vuetify.css";
 import { ComponentInit as NextcloudAuthenticationComponentInit } from "./components/NextcloudAuthenticationManager";
 import { ComponentInit as NextcloudRouterComponentInit } from "./components/NextcloudRouterFactory";
 import { ComponentInit as NextcloudNavigationTreeComponentInit } from "./components/NextcloudNavigationTreeSource";
+import { ComponentInit as NextcloudDSComponentInit } from "./ds";
 import { ComponentInit as BrowserComponentInit } from "@xwiki/cristal-browser-default";
-import { ComponentInit as VuetifyDSComponentInit } from "@xwiki/cristal-dsvuetify";
 import { ComponentInit as BlocknoteEditorComponentInit } from "@xwiki/cristal-editors-blocknote";
 import { ComponentInit as NextcloudPageHierarchyComponentInit } from "@xwiki/cristal-hierarchy-nextcloud";
 import { CristalAppLoader, defaultComponentsList } from "@xwiki/cristal-lib";
@@ -43,7 +43,7 @@ CristalAppLoader.init(
       apps: {
         name: "apps",
         configType: "Nextcloud",
-        designSystem: "vuetify",
+        designSystem: "nextcloud",
         baseURL: window.location.origin,
         baseRestURL: `${window.location.origin}/remote.php/dav`,
         editor: "blocknote",
@@ -58,7 +58,7 @@ CristalAppLoader.init(
 
     new BrowserComponentInit(container);
     new BrowserSettingsComponentInit(container);
-    new VuetifyDSComponentInit(container);
+    new NextcloudDSComponentInit(container);
     new NextcloudAuthenticationComponentInit(container);
     new NextcloudLinkSuggestComponentInit(container);
     new NextcloudPageHierarchyComponentInit(container);
