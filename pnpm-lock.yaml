@@ -48,8 +48,8 @@ importers:
         specifier: 0.25.0
         version: 0.25.0(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-api':
-        specifier: ^18.0.0-0
-        version: 18.0.0-1766407509(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
+        specifier: ^18.0.0-1766580525
+        version: 18.0.0-1766580525(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))
       '@xwiki/platform-authentication-api':
         specifier: ^18.0.0-0
         version: 18.0.0-1766407509(reflect-metadata@0.2.2)
@@ -206,11 +206,11 @@ packages:
       react: ^18.0 || ^19.0 || >= 19.0.0-rc
       react-dom: ^18.0 || ^19.0 || >= 19.0.0-rc
 
-  '@cacheable/memory@2.0.6':
-    resolution: {integrity: sha512-7e8SScMocHxcAb8YhtkbMhGG+EKLRIficb1F5sjvhSYsWTZGxvg4KIDp8kgxnV2PUJ3ddPe6J9QESjKvBWRDkg==}
+  '@cacheable/memory@2.0.7':
+    resolution: {integrity: sha512-RbxnxAMf89Tp1dLhXMS7ceft/PGsDl1Ip7T20z5nZ+pwIAsQ1p2izPjVG69oCLv/jfQ7HDPHTWK0c9rcAWXN3A==}
 
-  '@cacheable/utils@2.3.2':
-    resolution: {integrity: sha512-8kGE2P+HjfY8FglaOiW+y8qxcaQAfAhVML+i66XJR3YX5FtyDqn6Txctr3K2FrbxLKixRRYYBWMbuGciOhYNDg==}
+  '@cacheable/utils@2.3.3':
+    resolution: {integrity: sha512-JsXDL70gQ+1Vc2W/KUFfkAJzgb4puKwwKehNLuB+HrNKWf91O736kGfxn4KujXCCSuh6mRRL4XEB0PkAFjWS0A==}
 
   '@csstools/css-parser-algorithms@3.0.5':
     resolution: {integrity: sha512-DaDeUkXZKjdGhgYaHNJTV9pV7Y9B3b644jCLs9Upc3VeNGg6LWARAT6O+Q+/COo+2gg/bM5rhpMAtf70WqfBdQ==}
@@ -1879,6 +1879,14 @@ packages:
       vue: 3.x
       vue-router: 4.x
 
+  '@xwiki/platform-api@18.0.0-1766580525':
+    resolution: {integrity: sha512-rlxyRHNRIICfrOo4g0KL+CTxrUPfgzb1DEKNX9ha/eM/w32T7ZBGk3ca/w+Tk4zv/jZnJFHEDRQPiHoJ7ONTMA==}
+    peerDependencies:
+      inversify: 7.x
+      reflect-metadata: 0.x
+      vue: 3.x
+      vue-router: 4.x
+
   '@xwiki/platform-attachments-api@18.0.0-1766398944':
     resolution: {integrity: sha512-+5Dx2a/FWwyzUtex69/KmlOANlCgZgB1TTk9mgZ++c7mCI/lL2+G9WqLWMT1v3iFMidrKnOyKjdi1FoLJU8a6w==}
     peerDependencies:
@@ -1900,6 +1908,11 @@ packages:
 
   '@xwiki/platform-authentication-api@18.0.0-1766407509':
     resolution: {integrity: sha512-hHdRaes1gp3ziKYHHCujBup0+kPl5ScRIAHYyGQUJi8on2RVAKP1xn5l/4L5m+RuXVElPe92yM4uj3x+l2j8WQ==}
+    peerDependencies:
+      reflect-metadata: 0.x
+
+  '@xwiki/platform-authentication-api@18.0.0-1766580525':
+    resolution: {integrity: sha512-fLdhyhBekXZ56v+hge9hm+1O8YR9o+xT7ozeTDTnbpFesmem7Fk5+i1cV4M/Fwz9El4WBO3dEh6UA7zWoxpsBQ==}
     peerDependencies:
       reflect-metadata: 0.x
 
@@ -1927,6 +1940,9 @@ packages:
 
   '@xwiki/platform-configuration-api@18.0.0-1766407509':
     resolution: {integrity: sha512-4+yK7LUd8QaO/AJ9tJaLAwQ0OtfhZ3obxLLcT44iPqZqB++NJbFlK5FKdCPy6ZIsW3MPg7mXyChCu9hxLnyZQQ==}
+
+  '@xwiki/platform-configuration-api@18.0.0-1766580525':
+    resolution: {integrity: sha512-WzpVSg+4CMwknK+OmxQRHAp/hmFSnoro3BCzJuLEN8doAjE9x88UPtwKje03rfym4VApzqzZV6Dlj/ZRqX20AA==}
 
   '@xwiki/platform-document-api@18.0.0-1766398944':
     resolution: {integrity: sha512-LvlvzHM6+OkDv/D2epIoIC/Zm8S+WroBJQ7kcpBflmVAnotleiDPQwWUQDudpQaVjIO/3j5UGEAoR41zbjgfkA==}
@@ -2245,8 +2261,8 @@ packages:
   builtins@5.1.0:
     resolution: {integrity: sha512-SW9lzGTLvWTP1AY8xeAMZimqDrIaSdLQUcVr9DMef51niJ022Ri87SwRRKYm4A6iHfkPaiVUu/Duw2Wc4J7kKg==}
 
-  cacheable@2.3.0:
-    resolution: {integrity: sha512-HHiAvOBmlcR2f3SQ7kdlYD8+AUJG+wlFZ/Ze8tl1Vzvz0MdOh8IYA/EFU4ve8t1/sZ0j4MGi7ST5MoTwHessQA==}
+  cacheable@2.3.1:
+    resolution: {integrity: sha512-yr+FSHWn1ZUou5LkULX/S+jhfgfnLbuKQjE40tyEd4fxGZVMbBL5ifno0J0OauykS8UiCSgHi+DV/YD+rjFxFg==}
 
   call-bind-apply-helpers@1.0.2:
     resolution: {integrity: sha512-Sp1ablJ0ivDkSzjcaJdxEunN5/XvksFJ2sMBFfq6x0ryhQV/2b/KwFe21cMpmHtPOSij8K99/wSfoEuTObmuMQ==}
@@ -2539,8 +2555,8 @@ packages:
   error-ex@1.3.4:
     resolution: {integrity: sha512-sqQamAnR14VgCr1A618A3sGrygcpK+HEbenA/HiEAkkUwcZIIB/tgWqHFxWgOyDh4nB4JCRimh79dR5Ywc9MDQ==}
 
-  es-abstract@1.24.0:
-    resolution: {integrity: sha512-WSzPgsdLtTcQwm4CROfS5ju2Wa1QQcVeT37jFjYzdFz1r9ahadC8B8/a4qxJxM+09F18iumCdRmlr96ZYkQvEg==}
+  es-abstract@1.24.1:
+    resolution: {integrity: sha512-zHXBLhP+QehSSbsS9Pt23Gg964240DPd6QCf8WpkqEXxQ7fhdZzYsocOr5u7apWonsS5EjZDmTF+/slGMyasvw==}
     engines: {node: '>= 0.4'}
 
   es-define-property@1.0.1:
@@ -2790,8 +2806,8 @@ packages:
     resolution: {integrity: sha512-eRnCtTTtGZFpQCwhJiUOuxPQWRXVKYDn0b2PeHfXL6/Zi53SLAzAHfVhVWK2AryC/WH05kGfxhFIPvTF0SXQzg==}
     engines: {node: '>= 4.9.1'}
 
-  fastq@1.19.1:
-    resolution: {integrity: sha512-GwLTyxkCXjXbxqIhTsMI2Nui8huMPtnxg7krajPJAjnEG/iiOS7i+zCtWGZR9G0NBKbXKh6X9m9UIsYX/N6vvQ==}
+  fastq@1.20.1:
+    resolution: {integrity: sha512-GGToxJ/w1x32s/D2EKND7kTil4n8OVk/9mycTc4VDza13lOvpUZTGX3mFSCtV9ksdGBVzvsyAVLM6mHFThxXxw==}
 
   fdir@6.5.0:
     resolution: {integrity: sha512-tIbYtZbucOs0BRGqPJkshJUYdL+SDH7dVM8gjy+ERp3WAUjLEFJE+02kanyHtwjWOnwrKYBiwAmM0p4kLJAnXg==}
@@ -2962,8 +2978,8 @@ packages:
   hash.js@1.1.7:
     resolution: {integrity: sha512-taOaskGt4z4SOANNseOviYDvjEJinIkRgmp7LbKP2YTTmVxWBl87s/uzK9r+44BclBSp2X7K1hqeNfz9JbBeXA==}
 
-  hashery@1.2.0:
-    resolution: {integrity: sha512-43XJKpwle72Ik5Zpam7MuzRWyNdwwdf6XHlh8wCj2PggvWf+v/Dm5B0dxGZOmddidgeO6Ofu9As/o231Ti/9PA==}
+  hashery@1.3.0:
+    resolution: {integrity: sha512-fWltioiy5zsSAs9ouEnvhsVJeAXRybGCNNv0lvzpzNOSDbULXRy7ivFWwCCv4I5Am6kSo75hmbsCduOoc2/K4w==}
     engines: {node: '>=20'}
 
   hasown@2.0.2:
@@ -3028,8 +3044,8 @@ packages:
   hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
 
-  hookified@1.13.0:
-    resolution: {integrity: sha512-6sPYUY8olshgM/1LDNW4QZQN0IqgKhtl/1C8koNZBJrKLBk3AZl6chQtNwpNztvfiApHMEwMHek5rv993PRbWw==}
+  hookified@1.14.0:
+    resolution: {integrity: sha512-pi1ynXIMFx/uIIwpWJ/5CEtOHLGtnUB0WhGeeYT+fKcQ+WCQbm3/rrkAXnpfph++PgepNqPdTC2WTj8A6k6zoQ==}
 
   html-parse-stringify@3.0.1:
     resolution: {integrity: sha512-KknJ50kTInJ7qIScF3jeaFRpMpE8/lfiTdzf/twXyPBLAGrLRTmkz3AdTnKeh40X8k9L2fdYwEp/42WGXIRGcg==}
@@ -3307,15 +3323,12 @@ packages:
   keyv@4.5.4:
     resolution: {integrity: sha512-oxVHkHR/EJf2CNXnWxRLW6mg7JyCCUcG0DtEGmL2ctUo1PNTin1PUil+r/+4r5MpVgC/fn1kjsx7mjSujKqIpw==}
 
-  keyv@5.5.4:
-    resolution: {integrity: sha512-eohl3hKTiVyD1ilYdw9T0OiB4hnjef89e3dMYKz+mVKDzj+5IteTseASUsOB+EU9Tf6VNTCjDePcP6wkDGmLKQ==}
+  keyv@5.5.5:
+    resolution: {integrity: sha512-FA5LmZVF1VziNc0bIdCSA1IoSVnDCqE8HJIZZv2/W8YmoAM50+tnUgJR/gQZwEeIMleuIOnRnHA/UaZRNeV4iQ==}
 
   kind-of@6.0.3:
     resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
     engines: {node: '>=0.10.0'}
-
-  known-css-properties@0.36.0:
-    resolution: {integrity: sha512-A+9jP+IUmuQsNdsLdcg6Yt7voiMF/D4K83ew0OpJtpu+l34ef7LaohWV0Rc6KNvzw6ZDizkqfyB5JznZnzuKQA==}
 
   known-css-properties@0.37.0:
     resolution: {integrity: sha512-JCDrsP4Z1Sb9JwG0aJ8Eo2r7k4Ou5MwmThS/6lcIe1ICyb7UBJKGRIUUdqc2ASdE/42lgz6zFUnzAIhtXnBVrQ==}
@@ -3920,8 +3933,8 @@ packages:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
     engines: {node: '>=6'}
 
-  qified@0.5.2:
-    resolution: {integrity: sha512-7gJ6mxcQb9vUBOtbKm5mDevbe2uRcOEVp1g4gb/Q+oLntB3HY8eBhOYRxFI2mlDFlY1e4DOSCptzxarXRvzxCA==}
+  qified@0.5.3:
+    resolution: {integrity: sha512-kXuQdQTB6oN3KhI6V4acnBSZx8D2I4xzZvn9+wFLLFCoBNQY/sFnCW6c43OL7pOQ2HvGV4lnWIXNmgfp7cTWhQ==}
     engines: {node: '>=20'}
 
   qr-creator@1.0.0:
@@ -4381,11 +4394,11 @@ packages:
     peerDependencies:
       stylelint: ^16.23.0
 
-  stylelint-scss@6.12.1:
-    resolution: {integrity: sha512-UJUfBFIvXfly8WKIgmqfmkGKPilKB4L5j38JfsDd+OCg2GBdU0vGUV08Uw82tsRZzd4TbsUURVVNGeOhJVF7pA==}
+  stylelint-scss@6.13.0:
+    resolution: {integrity: sha512-kZPwFUJkfup2gP1enlrS2h9U5+T5wFoqzJ1n/56AlpwSj28kmFe7ww/QFydvPsg5gLjWchAwWWBLtterynZrOw==}
     engines: {node: '>=18.12.0'}
     peerDependencies:
-      stylelint: ^16.0.2
+      stylelint: ^16.8.2
 
   stylelint-use-logical@2.1.2:
     resolution: {integrity: sha512-4ffvPNk/swH4KS3izExWuzQOuzLmi0gb0uOhvxWJ20vDA5W5xKCjcHHtLoAj1kKvTIX6eGIN5xGtaVin9PD0wg==}
@@ -5065,17 +5078,17 @@ snapshots:
       - sugar-high
       - supports-color
 
-  '@cacheable/memory@2.0.6':
+  '@cacheable/memory@2.0.7':
     dependencies:
-      '@cacheable/utils': 2.3.2
-      '@keyv/bigmap': 1.3.0(keyv@5.5.4)
-      hookified: 1.13.0
-      keyv: 5.5.4
+      '@cacheable/utils': 2.3.3
+      '@keyv/bigmap': 1.3.0(keyv@5.5.5)
+      hookified: 1.14.0
+      keyv: 5.5.5
 
-  '@cacheable/utils@2.3.2':
+  '@cacheable/utils@2.3.3':
     dependencies:
-      hashery: 1.2.0
-      keyv: 5.5.4
+      hashery: 1.3.0
+      keyv: 5.5.5
 
   '@csstools/css-parser-algorithms@3.0.5(@csstools/css-tokenizer@3.0.4)':
     dependencies:
@@ -5351,11 +5364,11 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  '@keyv/bigmap@1.3.0(keyv@5.5.4)':
+  '@keyv/bigmap@1.3.0(keyv@5.5.5)':
     dependencies:
-      hashery: 1.2.0
-      hookified: 1.13.0
-      keyv: 5.5.4
+      hashery: 1.3.0
+      hookified: 1.14.0
+      keyv: 5.5.5
 
   '@keyv/serialize@1.1.1': {}
 
@@ -5510,7 +5523,7 @@ snapshots:
   '@nodelib/fs.walk@1.2.8':
     dependencies:
       '@nodelib/fs.scandir': 2.1.5
-      fastq: 1.19.1
+      fastq: 1.20.1
 
   '@nolyfill/is-core-module@1.0.39': {}
 
@@ -7240,6 +7253,15 @@ snapshots:
       vue: 3.5.25(typescript@5.8.2)
       vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
 
+  '@xwiki/platform-api@18.0.0-1766580525(inversify@7.10.4(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@4.6.3(vue@3.5.25(typescript@5.8.2)))(vue@3.5.25(typescript@5.8.2))':
+    dependencies:
+      '@xwiki/platform-authentication-api': 18.0.0-1766580525(reflect-metadata@0.2.2)
+      '@xwiki/platform-configuration-api': 18.0.0-1766580525
+      inversify: 7.10.4(reflect-metadata@0.2.2)
+      reflect-metadata: 0.2.2
+      vue: 3.5.25(typescript@5.8.2)
+      vue-router: 4.6.3(vue@3.5.25(typescript@5.8.2))
+
   '@xwiki/platform-attachments-api@18.0.0-1766398944(reflect-metadata@0.2.2)(vue@3.5.25(typescript@5.8.2))':
     dependencies:
       '@xwiki/platform-authentication-api': 18.0.0-1766398944(reflect-metadata@0.2.2)
@@ -7267,6 +7289,10 @@ snapshots:
       reflect-metadata: 0.2.2
 
   '@xwiki/platform-authentication-api@18.0.0-1766407509(reflect-metadata@0.2.2)':
+    dependencies:
+      reflect-metadata: 0.2.2
+
+  '@xwiki/platform-authentication-api@18.0.0-1766580525(reflect-metadata@0.2.2)':
     dependencies:
       reflect-metadata: 0.2.2
 
@@ -7303,6 +7329,10 @@ snapshots:
       utility-types: 3.11.0
 
   '@xwiki/platform-configuration-api@18.0.0-1766407509':
+    dependencies:
+      utility-types: 3.11.0
+
+  '@xwiki/platform-configuration-api@18.0.0-1766580525':
     dependencies:
       utility-types: 3.11.0
 
@@ -7647,7 +7677,7 @@ snapshots:
       call-bind: 1.0.8
       call-bound: 1.0.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
       get-intrinsic: 1.3.0
       is-string: 1.1.1
@@ -7660,7 +7690,7 @@ snapshots:
       call-bind: 1.0.8
       call-bound: 1.0.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
       es-shim-unscopables: 1.1.0
@@ -7669,14 +7699,14 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-shim-unscopables: 1.1.0
 
   array.prototype.flatmap@1.3.3:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-shim-unscopables: 1.1.0
 
   arraybuffer.prototype.slice@1.0.4:
@@ -7684,7 +7714,7 @@ snapshots:
       array-buffer-byte-length: 1.0.2
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       get-intrinsic: 1.3.0
       is-array-buffer: 3.0.5
@@ -7822,13 +7852,13 @@ snapshots:
     dependencies:
       semver: 7.7.3
 
-  cacheable@2.3.0:
+  cacheable@2.3.1:
     dependencies:
-      '@cacheable/memory': 2.0.6
-      '@cacheable/utils': 2.3.2
-      hookified: 1.13.0
-      keyv: 5.5.4
-      qified: 0.5.2
+      '@cacheable/memory': 2.0.7
+      '@cacheable/utils': 2.3.3
+      hookified: 1.14.0
+      keyv: 5.5.5
+      qified: 0.5.3
 
   call-bind-apply-helpers@1.0.2:
     dependencies:
@@ -8125,7 +8155,7 @@ snapshots:
     dependencies:
       is-arrayish: 0.2.1
 
-  es-abstract@1.24.0:
+  es-abstract@1.24.1:
     dependencies:
       array-buffer-byte-length: 1.0.2
       arraybuffer.prototype.slice: 1.0.4
@@ -8511,7 +8541,7 @@ snapshots:
 
   fastest-levenshtein@1.0.16: {}
 
-  fastq@1.19.1:
+  fastq@1.20.1:
     dependencies:
       reusify: 1.1.0
 
@@ -8546,9 +8576,9 @@ snapshots:
 
   flat-cache@6.1.19:
     dependencies:
-      cacheable: 2.3.0
+      cacheable: 2.3.1
       flatted: 3.3.3
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   flatted@3.3.3: {}
 
@@ -8702,9 +8732,9 @@ snapshots:
       inherits: 2.0.4
       minimalistic-assert: 1.0.1
 
-  hashery@1.2.0:
+  hashery@1.3.0:
     dependencies:
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   hasown@2.0.2:
     dependencies:
@@ -8843,7 +8873,7 @@ snapshots:
 
   hookable@5.5.3: {}
 
-  hookified@1.13.0: {}
+  hookified@1.14.0: {}
 
   html-parse-stringify@3.0.1:
     dependencies:
@@ -9098,13 +9128,11 @@ snapshots:
     dependencies:
       json-buffer: 3.0.1
 
-  keyv@5.5.4:
+  keyv@5.5.5:
     dependencies:
       '@keyv/serialize': 1.1.1
 
   kind-of@6.0.3: {}
-
-  known-css-properties@0.36.0: {}
 
   known-css-properties@0.37.0: {}
 
@@ -9625,14 +9653,14 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
 
   object.groupby@1.0.3:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
 
   object.values@1.2.1:
     dependencies:
@@ -9931,9 +9959,9 @@ snapshots:
 
   punycode@2.3.1: {}
 
-  qified@0.5.2:
+  qified@0.5.3:
     dependencies:
-      hookified: 1.13.0
+      hookified: 1.14.0
 
   qr-creator@1.0.0: {}
 
@@ -10042,7 +10070,7 @@ snapshots:
     dependencies:
       call-bind: 1.0.8
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-errors: 1.3.0
       es-object-atoms: 1.1.1
       get-intrinsic: 1.3.0
@@ -10409,7 +10437,7 @@ snapshots:
       call-bound: 1.0.4
       define-data-property: 1.1.4
       define-properties: 1.2.1
-      es-abstract: 1.24.0
+      es-abstract: 1.24.1
       es-object-atoms: 1.1.1
       has-property-descriptors: 1.0.2
 
@@ -10461,7 +10489,7 @@ snapshots:
       postcss-scss: 4.0.9(postcss@8.5.6)
       stylelint: 16.26.0(typescript@5.8.2)
       stylelint-config-recommended: 16.0.0(stylelint@16.26.0(typescript@5.8.2))
-      stylelint-scss: 6.12.1(stylelint@16.26.0(typescript@5.8.2))
+      stylelint-scss: 6.13.0(stylelint@16.26.0(typescript@5.8.2))
     optionalDependencies:
       postcss: 8.5.6
 
@@ -10481,11 +10509,11 @@ snapshots:
     dependencies:
       stylelint: 16.26.0(typescript@5.8.2)
 
-  stylelint-scss@6.12.1(stylelint@16.26.0(typescript@5.8.2)):
+  stylelint-scss@6.13.0(stylelint@16.26.0(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
-      known-css-properties: 0.36.0
+      known-css-properties: 0.37.0
       mdn-data: 2.25.0
       postcss-media-query-parser: 0.2.3
       postcss-resolve-nested-selector: 0.1.6
