@@ -47,6 +47,7 @@ CristalAppLoader.init(
         baseURL: window.location.origin,
         baseRestURL: `${window.location.origin}/remote.php/dav`,
         editor: "blocknote",
+        homePage: "home",
       },
     };
   },
