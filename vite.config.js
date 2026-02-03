@@ -20,7 +20,6 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, "src/main.js"),
       name: "cristal",
-      formats: ["iife"],
       fileName: () => "js/cristal-main.js",
     },
     
@@ -32,6 +31,7 @@ export default defineConfig({
           }
           return "css/[name][extname]";
         },
+        chunkFileNames: () => "js/[name]-[hash].js",
         globals: {
           vue: "Vue",
         },
