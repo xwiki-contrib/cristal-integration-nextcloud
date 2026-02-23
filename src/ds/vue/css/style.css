@@ -33,7 +33,7 @@ main ul, main ol {
   padding-inline-start: var(--cr-spacing-x-large);
 }
 
-body {
+div#xwCristalApp {
   --cr-sizes-max-page-width: 960px; /*This value controls the width of the main content. It should be 100% for spanning text along the whole width or an arbitraty value*/
   --cr-sizes-main-sidebar-width: 15%; /*The default width of the main sidebar*/
   --cr-sizes-main-sidebar-min-width: 250px; /*The minimum width of the main sidebar*/

@@ -21,7 +21,11 @@
 /* This targets the "content" node used by the Nextcloud wrapper. */
 div#content {
   display: grid;
+}
+
+div#xwCristalApp {
   background-color: var(--cr-panel-background-color);
+  color: var(--cr-base-text-color);
 }
 
 /* This targets the "content" node used by Cristal. */

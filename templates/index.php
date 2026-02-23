@@ -28,4 +28,4 @@ Util::addScript(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\App
 Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Application::APP_ID . '-main');
 
 ?>
-<div id="xwCristalApp" class="xw-cristal"></div>
+<div id="xwCristalApp" class="xw-cristal" data-theme-light></div>
