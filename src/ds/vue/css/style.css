@@ -39,7 +39,7 @@ div#xwCristalApp {
   --cr-sizes-main-sidebar-min-width: 250px; /*The minimum width of the main sidebar*/
   --cr-sizes-collapsed-main-sidebar-width: 32px; /*The width of the bar that gets shown containing the menu button to reopen the standard main main sidebar*/
   --cr-base-font-size: 16px;
-  --cr-base-text-color: var(--cr-color-gray-950);
+  --cr-base-text-color: var(--color-main-text);
   --cr-base-link-color: var(--cr-color-sky-700);
   --cr-base-visited-link-color: var(--cr-color-blue-700);
   --cr-mute-text-color: var(--cr-color-neutral-600);
