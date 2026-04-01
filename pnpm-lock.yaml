@@ -109,8 +109,8 @@ importers:
         specifier: 3.1.1
         version: 3.1.1(stylelint-config-recommended-scss@15.0.1(postcss@8.5.8)(stylelint@16.26.0(typescript@5.8.2)))(stylelint-config-recommended-vue@1.6.1(postcss-html@1.8.0)(stylelint@16.26.0(typescript@5.8.2)))(stylelint@16.26.0(typescript@5.8.2))
       '@vitejs/plugin-vue':
-        specifier: 6.0.4
-        version: 6.0.4(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))
+        specifier: 6.0.5
+        version: 6.0.5(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))
       vite:
         specifier: 7.3.1
         version: 7.3.1(sass@1.94.2)(yaml@2.8.3)
@@ -1308,11 +1308,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@vitejs/plugin-vue@6.0.4':
-    resolution: {integrity: sha512-uM5iXipgYIn13UUQCZNdWkYk+sysBeA97d5mHsAoAt1u/wpN3+zxOmsVJWosuzX+IMGRzeYUNytztrYznboIkQ==}
+  '@vitejs/plugin-vue@6.0.5':
+    resolution: {integrity: sha512-bL3AxKuQySfk1iGcBsQnoRVexTPJq0Z/ixFVM8OhVJAP6ZXXXLtM7NFKWhLl30Kg7uTBqIaPXbh+nuQCuBDedg==}
     engines: {node: ^20.19.0 || >=22.12.0}
     peerDependencies:
-      vite: ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
+      vite: ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
       vue: ^3.2.25
 
   '@vue-macros/common@3.1.2':
@@ -6018,7 +6018,7 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.11.1':
     optional: true
 
-  '@vitejs/plugin-vue@6.0.4(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))':
+  '@vitejs/plugin-vue@6.0.5(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-rc.2
       vite: 7.3.1(sass@1.94.2)(yaml@2.8.3)
