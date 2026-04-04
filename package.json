@@ -43,7 +43,7 @@
     "@xwiki/platform-model-remote-url-api": "18.2.0",
     "@xwiki/platform-uniast-api": "18.2.0",
     "@xwiki/platform-uniast-markdown": "18.2.0",
-    "fast-xml-parser": "5.5.9",
+    "fast-xml-parser": "5.5.10",
     "inversify": "7.11.0",
     "vue-i18n": "11.3.0",
     "vue-router": "5.0.4",
