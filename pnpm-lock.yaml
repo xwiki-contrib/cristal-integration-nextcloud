@@ -110,10 +110,10 @@ importers:
         version: 3.1.1(stylelint-config-recommended-scss@15.0.1(postcss@8.5.8)(stylelint@16.26.0(typescript@5.8.2)))(stylelint-config-recommended-vue@1.6.1(postcss-html@1.8.0)(stylelint@16.26.0(typescript@5.8.2)))(stylelint@16.26.0(typescript@5.8.2))
       '@vitejs/plugin-vue':
         specifier: 6.0.4
-        version: 6.0.4(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))
+        version: 6.0.4(vite@7.3.2(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))
       vite:
-        specifier: 7.3.1
-        version: 7.3.1(sass@1.94.2)(yaml@2.8.3)
+        specifier: 7.3.2
+        version: 7.3.2(sass@1.94.2)(yaml@2.8.3)
       vue:
         specifier: 3.5.31
         version: 3.5.31(typescript@5.8.2)
@@ -4541,8 +4541,8 @@ packages:
   vfile@6.0.3:
     resolution: {integrity: sha512-KzIbH/9tXat2u30jf+smMwFCsno4wHVdNmzFyL+T/L3UGqqk6JKfVqOFOZEpZSHADH1k40ab6NUIXZq422ov3Q==}
 
-  vite@7.3.1:
-    resolution: {integrity: sha512-w+N7Hifpc3gRjZ63vYBXA56dvvRlNWRczTdmCBBa+CotUzAPf5b7YMdMR/8CQoeYE5LX3W4wj6RYTgonm1b9DA==}
+  vite@7.3.2:
+    resolution: {integrity: sha512-Bby3NOsna2jsjfLVOHKes8sGwgl4TT0E6vvpYgnAYDIF/tie7MRaFthmKuHx1NSXjiTueXH3do80FMQgvEktRg==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -6018,10 +6018,10 @@ snapshots:
   '@unrs/resolver-binding-win32-x64-msvc@1.11.1':
     optional: true
 
-  '@vitejs/plugin-vue@6.0.4(vite@7.3.1(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))':
+  '@vitejs/plugin-vue@6.0.4(vite@7.3.2(sass@1.94.2)(yaml@2.8.3))(vue@3.5.31(typescript@5.8.2))':
     dependencies:
       '@rolldown/pluginutils': 1.0.0-rc.2
-      vite: 7.3.1(sass@1.94.2)(yaml@2.8.3)
+      vite: 7.3.2(sass@1.94.2)(yaml@2.8.3)
       vue: 3.5.31(typescript@5.8.2)
 
   '@vue-macros/common@3.1.2(vue@3.5.31(typescript@5.8.2))':
@@ -10612,7 +10612,7 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.3
 
-  vite@7.3.1(sass@1.94.2)(yaml@2.8.3):
+  vite@7.3.2(sass@1.94.2)(yaml@2.8.3):
     dependencies:
       esbuild: 0.27.2
       fdir: 6.5.0(picomatch@4.0.3)
