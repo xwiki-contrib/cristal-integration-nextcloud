@@ -36,7 +36,7 @@
     "@xwiki/platform-api": "18.2.0",
     "@xwiki/platform-authentication-api": "18.2.0",
     "@xwiki/platform-backend-api": "18.2.0",
-    "@xwiki/platform-document-api": "18.2.0",
+    "@xwiki/platform-document-api": "18.2.1",
     "@xwiki/platform-dsapi": "18.2.0",
     "@xwiki/platform-icons": "18.2.0",
     "@xwiki/platform-model-api": "18.2.0",
