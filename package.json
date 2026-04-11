@@ -39,7 +39,7 @@
     "@xwiki/platform-document-api": "18.2.0",
     "@xwiki/platform-dsapi": "18.2.0",
     "@xwiki/platform-icons": "18.2.0",
-    "@xwiki/platform-model-api": "18.2.0",
+    "@xwiki/platform-model-api": "18.2.1",
     "@xwiki/platform-model-remote-url-api": "18.2.0",
     "@xwiki/platform-uniast-api": "18.2.0",
     "@xwiki/platform-uniast-markdown": "18.2.0",
