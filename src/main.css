@@ -75,7 +75,11 @@ article#content .editor .bn-side-menu button {
   padding: 0;
 }
 
-/* This targets floating input fields in Blocknote. */
-article#content .editor .bn-form-popover input {
-  padding: 0 var(--input-padding-inline-end) 0 var(--input-padding-inline-start);
+/* This targets floating input fields in Blocknote. Blocknote renders these popovers in a portal
+   attached near the document body rather than inside "article#content", and outside that scope
+   Nextcloud's own global input style overrides the padding Mantine reserves for a leading/trailing
+   icon, making the icon overlap the input text. */
+.bn-mantine .bn-form-popover input {
+  padding-inline-start: var(--input-padding-inline-start);
+  padding-inline-end: var(--input-padding-inline-end);
 }
