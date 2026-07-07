@@ -1,5 +1,7 @@
 # esbuild's postinstall validates/installs its platform binary; core-js's only
 # prints a funding banner, so it stays denied.
 allowBuilds:
-  esbuild: true
   core-js: false
+  esbuild: true
+patchedDependencies:
+  '@xwiki/platform-editors-blocknote-react@18.5.0': patches/@xwiki__platform-editors-blocknote-react@18.5.0.patch
