@@ -5,7 +5,7 @@ import { resolve } from "path";
 export default defineConfig({
   plugins: [vue()],
   define: {
-    'process.env': {},
+    'process.env.NODE_ENV': JSON.stringify("production"),
   },
   resolve: {
     alias: {
@@ -21,7 +21,9 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, "src/main.ts"),
       name: "cristal",
-      fileName: () => "js/cristal-main.js",
+      // .mjs, not .js: Nextcloud's JSResourceLocator only emits type="module"
+      // for this extension, required since the build output uses ES imports.
+      fileName: () => "js/cristal-main.mjs",
       formats: ['es'],
     },
     
