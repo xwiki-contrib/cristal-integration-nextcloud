@@ -1,0 +1,111 @@
+# Functional smoke tests: start a real Nextcloud in Docker for every supported
+# version (derived from appinfo/info.xml) and check that the Cristal app boots.
+# Reusable: runs on pull requests and is called as a gate by release.yml.
+name: e2e
+
+on:
+  pull_request:
+  workflow_call:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: e2e-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      versions: ${{ steps.versions.outputs.versions }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Derive Nextcloud versions from appinfo/info.xml
+        id: versions
+        run: |
+          min=$(grep -oP 'min-version="\K[0-9]+' appinfo/info.xml)
+          max=$(grep -oP 'max-version="\K[0-9]+' appinfo/info.xml)
+          versions=()
+          for v in $(seq "$min" "$max"); do
+            if curl -sf -o /dev/null "https://hub.docker.com/v2/repositories/library/nextcloud/tags/$v"; then
+              versions+=("$v")
+            else
+              echo "::warning::No nextcloud:$v docker image published yet, skipping"
+            fi
+          done
+          if [ "${#versions[@]}" -eq 0 ]; then
+            echo "::error::No usable Nextcloud docker image found for range $min..$max"
+            exit 1
+          fi
+          echo "versions=$(printf '%s\n' "${versions[@]}" | jq -cnR '[inputs]')" >> "$GITHUB_OUTPUT"
+
+  e2e:
+    needs: matrix
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        nextcloud: ${{ fromJSON(needs.matrix.outputs.versions) }}
+    name: Nextcloud ${{ matrix.nextcloud }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build frontend assets
+        run: pnpm run build
+
+      - name: Start Nextcloud ${{ matrix.nextcloud }}
+        run: ./tests/nextcloud/start-nextcloud.sh "${{ matrix.nextcloud }}"
+
+      - name: Cache Playwright browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('pnpm-lock.yaml') }}
+
+      - name: Install Playwright browser
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Install Playwright OS dependencies
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
+
+      - name: Run smoke tests
+        run: pnpm run test:e2e
+
+      - name: Collect Nextcloud logs
+        if: failure()
+        run: |
+          docker logs nextcloud-cristal > nextcloud-container.log 2>&1 || true
+          docker exec -u www-data nextcloud-cristal cat data/nextcloud.log > nextcloud-server.log 2>&1 || true
+
+      - name: Upload test artifacts
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: e2e-artifacts-nextcloud-${{ matrix.nextcloud }}
+          path: |
+            tests/playwright-report/
+            tests/test-results/
+            tests/e2e-tests.xml
+            nextcloud-*.log
+          if-no-files-found: ignore

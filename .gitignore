@@ -6,6 +6,9 @@
 
 /.php-cs-fixer.cache
 /tests/.phpunit.cache
+/tests/playwright-report/
+/tests/test-results/
+/tests/e2e-tests.xml
 
 /node_modules/
 /js/

@@ -11,7 +11,10 @@
     "dev": "vite --mode development build",
     "watch": "vite --mode development build --watch",
     "lint": "eslint src",
-    "stylelint": "stylelint src/**/*.vue src/**/*.scss src/**/*.css"
+    "stylelint": "stylelint src/**/*.vue src/**/*.scss src/**/*.css",
+    "test:e2e": "playwright test --config tests/playwright.config.ts",
+    "start:nextcloud": "tests/nextcloud/start-nextcloud.sh",
+    "stop:nextcloud": "tests/nextcloud/stop-nextcloud.sh"
   },
   "type": "module",
   "browserslist": [
@@ -53,6 +56,7 @@
     "@nextcloud/browserslist-config": "3.1.2",
     "@nextcloud/eslint-config": "9.0.0",
     "@nextcloud/stylelint-config": "3.2.2",
+    "@playwright/test": "1.61.1",
     "@vitejs/plugin-vue": "6.0.7",
     "eslint": "^10.6.0",
     "vite": "8.1.1",
