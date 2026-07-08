@@ -2,24 +2,17 @@
   "name": "cristal",
   "version": "1.0.0",
   "license": "AGPL-3.0-or-later",
-  "engines": {
-    "node": "^24.0.0",
-    "npm": "^11.11.0"
-  },
+  "type": "module",
   "scripts": {
     "build": "vite build",
     "dev": "vite --mode development build",
-    "watch": "vite --mode development build --watch",
     "lint": "eslint src",
+    "start:nextcloud": "tests/nextcloud/start-nextcloud.sh",
+    "stop:nextcloud": "tests/nextcloud/stop-nextcloud.sh",
     "stylelint": "stylelint src/**/*.vue src/**/*.scss src/**/*.css",
     "test:e2e": "playwright test --config tests/playwright.config.ts",
-    "start:nextcloud": "tests/nextcloud/start-nextcloud.sh",
-    "stop:nextcloud": "tests/nextcloud/stop-nextcloud.sh"
+    "watch": "vite --mode development build --watch"
   },
-  "type": "module",
-  "browserslist": [
-    "extends @nextcloud/browserslist-config"
-  ],
   "dependencies": {
     "@nextcloud/vue": "9.8.2",
     "@xwiki/cristal-alerts-api": "1.5.0",
@@ -62,5 +55,12 @@
     "vite": "8.1.1",
     "vue": "3.5.39",
     "vue-eslint-parser": "^10.4.1"
-  }
+  },
+  "engines": {
+    "node": "^24.0.0",
+    "npm": "^11.11.0"
+  },
+  "browserslist": [
+    "extends @nextcloud/browserslist-config"
+  ]
 }
