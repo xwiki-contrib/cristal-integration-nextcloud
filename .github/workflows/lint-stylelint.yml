@@ -29,25 +29,21 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Read package.json node and npm engines version
-        uses: skjnldsv/read-package-engines-version-actions@06d6baf7d8f41934ab630e97d9e6c0bc9c9ac5e4 # v3
-        id: versions
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
         with:
-          fallbackNode: '^20'
-          fallbackNpm: '^10'
+          version: 11
 
-      - name: Set up node ${{ steps.versions.outputs.nodeVersion }}
+      - name: Set up node
         uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
         with:
-          node-version: ${{ steps.versions.outputs.nodeVersion }}
-
-      - name: Set up npm ${{ steps.versions.outputs.npmVersion }}
-        run: npm i -g 'npm@${{ steps.versions.outputs.npmVersion }}'
+          node-version: 'lts/*'
+          cache: pnpm
 
       - name: Install dependencies
         env:
           CYPRESS_INSTALL_BINARY: 0
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Lint
-        run: npm run stylelint
+        run: pnpm run stylelint
