@@ -28,6 +28,18 @@ div#xwCristalApp {
   color: var(--cr-base-text-color);
 }
 
+/* This targets the "view mode" content in Cristal. */
+div#xwikicontent {
+  h1 {
+    font-size: 2em;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    color: var(--color-main-text);
+  }
+}
+
 /* This targets the "content" node used by Cristal. */
 article#content {
   display: grid;
