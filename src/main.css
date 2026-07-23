@@ -42,6 +42,11 @@ article#content .breadcrumb {
   height: unset;
 }
 
+/* This targets NC's sidebar elements we embed in the article section. */
+article#content .app-sidebar {
+  z-index: inherit;
+}
+
 article#content:not(.with-sidebar--full) {
   position: unset;
 }
