@@ -27,7 +27,18 @@ import { createVuetify } from 'vuetify'
 import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 import { aliases, mdi } from 'vuetify/iconsets/mdi-svg'
-import { blue, blueGrey } from 'vuetify/util/colors'
+
+// We ignore hightcontrast variants because Vuetify does not implement them.
+function getNextcloudTheme() {
+	const body = document.body
+	if (body.hasAttribute('data-theme-dark') || body.hasAttribute('data-theme-dark-highcontrast')) {
+		return 'dark'
+	}
+	if (body.hasAttribute('data-theme-light') || body.hasAttribute('data-theme-light-highcontrast')) {
+		return 'light'
+	}
+	return 'default'
+}
 
 @injectable()
 export class NextcloudDesignSystemLoader implements DesignSystemLoader {
@@ -45,16 +56,7 @@ export class NextcloudDesignSystemLoader implements DesignSystemLoader {
 				},
 			},
 			theme: {
-				themes: {
-					light: {
-						dark: false,
-						colors: {
-							background: '#FFFFFF',
-							primary: blue.darken4,
-							secondary: blueGrey.darken4,
-						},
-					},
-				},
+				defaultTheme: getNextcloudTheme(),
 			},
 		})
 		app.use(vuetify)

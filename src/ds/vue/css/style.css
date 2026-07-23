@@ -40,15 +40,14 @@ div#xwCristalApp {
   --cr-sizes-collapsed-main-sidebar-width: 32px; /*The width of the bar that gets shown containing the menu button to reopen the standard main main sidebar*/
   --cr-base-font-size: 16px;
   --cr-base-text-color: var(--color-main-text);
-  --cr-base-link-color: var(--cr-color-sky-700);
-  --cr-base-visited-link-color: var(--cr-color-blue-700);
+  --cr-base-link-color: var(--color-primary-element);
+  --cr-base-visited-link-color: color-mix(in srgb, var(--color-primary-element) 70%, var(--color-main-text));
+
   --cr-mute-text-color: var(--cr-color-neutral-600);
 
   /*
    * Typography
    */
-
-
 
   /* Fonts */
   --cr-font-mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
@@ -388,13 +387,13 @@ div#xwCristalApp {
   --cr-color-danger-950: var(--cr-color-red-950);
 
   /* Neutral */
-  --cr-color-neutral-50: var(--cr-color-gray-50);
-  --cr-color-neutral-100: var(--cr-color-gray-100);
-  --cr-color-neutral-200: var(--cr-color-gray-200);
+  --cr-color-neutral-50: var(--color-background-dark);
+  --cr-color-neutral-100: var(--color-primary-element-light);
+  --cr-color-neutral-200: var(--color-background-darker);
   --cr-color-neutral-300: var(--cr-color-gray-300);
   --cr-color-neutral-400: var(--cr-color-gray-400);
   --cr-color-neutral-500: var(--cr-color-gray-500);
-  --cr-color-neutral-600: var(--cr-color-gray-600);
+  --cr-color-neutral-600: var(--color-text-maxcontrast);
   --cr-color-neutral-700: var(--cr-color-gray-700);
   --cr-color-neutral-800: var(--cr-color-gray-800);
   --cr-color-neutral-900: var(--cr-color-gray-900);
@@ -573,4 +572,32 @@ div#xwCristalApp {
   --cr-z-index-dropdown: 900;
   --cr-z-index-toast: 950;
   --cr-z-index-tooltip: 1000;
+}
+
+/* Blocknote */
+.bn-root[data-color-scheme] {
+  --bn-colors-editor-text: var(--color-main-text);
+  --bn-colors-editor-background: var(--color-main-background);
+
+  --bn-colors-menu-text: var(--color-main-text);
+  --bn-colors-menu-background: var(--color-main-background);
+
+  --bn-colors-tooltip-text: var(--color-primary-element-text);
+  --bn-colors-tooltip-background: var(--color-primary-element);
+
+  --bn-colors-hovered-text: var(--color-main-text);
+  --bn-colors-hovered-background: var(--color-background-hover);
+
+  --bn-colors-selected-text: var(--color-primary-element-text);
+  --bn-colors-selected-background: var(--color-primary-element);
+
+  --bn-colors-disabled-text: var(--color-text-maxcontrast);
+  --bn-colors-disabled-background: var(--color-background-dark);
+
+  --bn-colors-shadow: var(--color-box-shadow);
+  --bn-colors-border: var(--color-border);
+  --bn-colors-side-menu: var(--color-text-maxcontrast);
+
+  --bn-border-radius: var(--border-radius-element);
+  --bn-font-family: var(--font-face);
 }

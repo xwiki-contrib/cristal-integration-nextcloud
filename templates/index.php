@@ -29,4 +29,4 @@ Util::addStyle(OCA\Cristal\AppInfo\Application::APP_ID, OCA\Cristal\AppInfo\Appl
 
 ?>
 <!-- TODO: Remove data-theme-light once CRISTALNC-22 is fixed. -->
-<div id="xwCristalApp" class="xw-cristal" data-theme-light></div>
+<div id="xwCristalApp" class="xw-cristal"></div>

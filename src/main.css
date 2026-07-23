@@ -26,6 +26,11 @@ div#content {
 div#xwCristalApp {
   background-color: var(--cr-panel-background-color);
   color: var(--cr-base-text-color);
+
+  .doc-header {
+    background-color: var(--cr-panel-background-color);
+    color: var(--cr-base-text-color);
+  }
 }
 
 /* This targets the "content" node used by Cristal. */
