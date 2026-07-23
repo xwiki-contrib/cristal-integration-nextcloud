@@ -37,7 +37,7 @@ function getNextcloudTheme() {
 	if (body.hasAttribute('data-theme-light') || body.hasAttribute('data-theme-light-highcontrast')) {
 		return 'light'
 	}
-	return 'default'
+	return 'system'
 }
 
 @injectable()
