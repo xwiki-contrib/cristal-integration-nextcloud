@@ -72,6 +72,7 @@ CristalAppLoader.init(
 		new BlocknoteEditorComponentInit(container)
 		new NextcloudHTTPHeadersComponentInit(container)
 
+		patchCSSSetProperty()
 		await patchNextcloudMarkdownInternalLinksResolution(container)
 	},
 	async () => {},
@@ -110,4 +111,30 @@ function bindAndLoad<T extends InternalLinksSerializer>(
 	return context.get<InternalLinksSerializer>('InternalLinksSerializer', {
 		name,
 	})
+}
+
+/**
+ * Nextcloud scopes Cristal's root to an inner div, which conflicts with our use of
+ * setProperty on the root document. So we override the related methods to the proper
+ * root element that Nextcloud gives us.
+ */
+function patchCSSSetProperty() {
+	const scopedRoot = document.querySelector<HTMLElement>('div#xwCristalApp')
+	const nativeSetProperty = CSSStyleDeclaration.prototype.setProperty
+	const nativeRemoveProperty = CSSStyleDeclaration.prototype.removeProperty
+
+	document.documentElement.style.setProperty = function(name, value, priority) {
+		nativeSetProperty.call(this, name, value, priority)
+		if (scopedRoot) {
+			nativeSetProperty.call(scopedRoot.style, name, value, priority)
+		}
+	}
+
+	document.documentElement.style.removeProperty = function(name) {
+		const result = nativeRemoveProperty.call(this, name)
+		if (scopedRoot) {
+			nativeRemoveProperty.call(scopedRoot.style, name)
+		}
+		return result
+	}
 }
