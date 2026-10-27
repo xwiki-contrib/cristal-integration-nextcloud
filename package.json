@@ -43,7 +43,7 @@
     "inversify": "8.2.3",
     "pinia": "4.0.3",
     "vue-i18n": "11.4.13",
-    "vue-router": "5.3.1",
+    "vue-router": "5.4.0",
     "vuetify": "4.2.3"
   },
   "devDependencies": {
