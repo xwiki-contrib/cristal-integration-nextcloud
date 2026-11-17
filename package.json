@@ -17,7 +17,7 @@
     "@nextcloud/vue": "9.14.0",
     "@xwiki/cristal-alerts-api": "1.9.0",
     "@xwiki/cristal-browser-default": "1.9.0",
-    "@xwiki/cristal-dsvuetify": "1.9.0",
+    "@xwiki/cristal-dsvuetify": "1.9.1",
     "@xwiki/cristal-editors-blocknote": "1.9.0",
     "@xwiki/cristal-hierarchy-nextcloud": "1.9.0",
     "@xwiki/cristal-history-api": "1.9.0",
