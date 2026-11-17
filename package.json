@@ -23,7 +23,7 @@
     "@xwiki/cristal-history-api": "1.9.0",
     "@xwiki/cristal-lib": "1.9.0",
     "@xwiki/cristal-link-suggest-nextcloud": "1.9.0",
-    "@xwiki/cristal-model-reference-nextcloud": "1.9.0",
+    "@xwiki/cristal-model-reference-nextcloud": "1.9.1",
     "@xwiki/cristal-model-remote-url-nextcloud": "1.9.0",
     "@xwiki/cristal-navigation-tree-nextcloud": "1.9.0",
     "@xwiki/cristal-nextcloud-http-headers": "1.9.0",
