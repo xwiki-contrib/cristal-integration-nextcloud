@@ -25,7 +25,7 @@
     "@xwiki/cristal-link-suggest-nextcloud": "1.9.0",
     "@xwiki/cristal-model-reference-nextcloud": "1.9.0",
     "@xwiki/cristal-model-remote-url-nextcloud": "1.9.0",
-    "@xwiki/cristal-navigation-tree-nextcloud": "1.9.0",
+    "@xwiki/cristal-navigation-tree-nextcloud": "1.9.1",
     "@xwiki/cristal-nextcloud-http-headers": "1.9.0",
     "@xwiki/cristal-page-default": "1.9.0",
     "@xwiki/cristal-settings-browser": "1.9.0",
